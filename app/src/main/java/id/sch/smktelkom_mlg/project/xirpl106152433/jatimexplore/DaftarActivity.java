@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore.adapter.KotaAdapter;
 import id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore.model.Kota;
 
-public class MainActivity extends AppCompatActivity {
+public class DaftarActivity extends AppCompatActivity {
 
     ArrayList<Kota> mList = new ArrayList<>();
     KotaAdapter mAdapter;
@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_daftar);
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         LinearLayoutManager layoutManager = new GridLayoutManager(this, 2);
