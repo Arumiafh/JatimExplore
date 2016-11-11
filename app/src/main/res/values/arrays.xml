@@ -16,8 +16,10 @@
 <resources>
     <string-array name="city">
         <item>Banyuwangi</item>
+        <item>Jember</item>
         <item>Kediri</item>
         <item>Lamongan</item>
+        <item>Mojokerto</item>
         <item>Malang</item>
         <item>Nganjuk</item>
         <item>Pacitan</item>
@@ -28,8 +30,10 @@
 
     <array name="city_picture">
         <item>@drawable/bnywg</item>
+        <item>@drawable/jmbr</item>
         <item>@drawable/kdr</item>
         <item>@drawable/lmgn</item>
+        <item>@drawable/mjkrt</item>
         <item>@drawable/mlg</item>
         <item>@drawable/ngnjk</item>
         <item>@drawable/pctn</item>
