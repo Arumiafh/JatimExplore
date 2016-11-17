@@ -1,16 +1,14 @@
 package id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore;
 
+import android.content.Intent;
 import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
-import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.support.v7.widget.SearchView;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -39,8 +37,8 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-//        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-//        setSupportActionBar(toolbar);
+        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        //setSupportActionBar(toolbar);
         mDemoSlider = (SliderLayout) findViewById(R.id.slider);
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
@@ -52,9 +50,16 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
 
 
         HashMap<String, Integer> file_maps = new HashMap<String, Integer>();
-        file_maps.put("Surabaya", R.drawable.sby);
-        file_maps.put("Malang", R.drawable.mlg);
+        file_maps.put("Surabaya", R.drawable.sby1);
+        file_maps.put("Malang", R.drawable.mlg1);
         file_maps.put("Kediri", R.drawable.kdr);
+
+        findViewById(R.id.showall).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, DaftarActivity.class));
+            }
+        });
 
         for (String name : file_maps.keySet()) {
             TextSliderView textSliderView = new TextSliderView(this);
@@ -86,7 +91,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
 //            }
 //        });
 
-
+        /*
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -94,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
                 Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
-        });
+        });*/
     }
 
     private void fillData() {
@@ -125,24 +130,7 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
-        MenuItem searchItem = menu.findItem(R.id.action_search);
-        SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
 
-
-        searchView.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
-                                              @Override
-                                              public boolean onQueryTextSubmit(String query) {
-                                                  return false;
-                                              }
-
-                                              @Override
-                                              public boolean onQueryTextChange(String newText) {
-                                                  kota = newText.toLowerCase();
-                                                  return true;
-                                              }
-                                          }
-
-        );
         return true;
     }
 

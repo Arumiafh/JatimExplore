@@ -4,10 +4,12 @@ import android.content.res.Resources;
 import android.content.res.TypedArray;
 import android.graphics.drawable.Drawable;
 import android.os.Bundle;
+import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.SearchView;
 import android.view.Menu;
 import android.view.MenuItem;
 
@@ -20,6 +22,11 @@ public class DaftarActivity extends AppCompatActivity {
 
     ArrayList<Kota> mList = new ArrayList<>();
     KotaAdapter mAdapter;
+
+    ArrayList<Kota> mListAll = new ArrayList<>();
+    boolean isFiltered;
+    ArrayList<Integer> mListMapFilter = new ArrayList<>();
+    String mQuery;
 
     //deklarasi variabel recycleview
     RecyclerView recyclerView;
@@ -58,7 +65,50 @@ public class DaftarActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
+
+        MenuItem searchItem = menu.findItem(R.id.action_search);
+        SearchView searchView = (SearchView)
+                MenuItemCompat.getActionView(searchItem);
+
+        searchView.setOnQueryTextListener(
+                new SearchView.OnQueryTextListener() {
+                    @Override
+                    public boolean onQueryTextSubmit(String query) {
+                        return false;
+                    }
+
+                    @Override
+                    public boolean onQueryTextChange(String newText) {
+                        mQuery = newText.toLowerCase();
+                        doFilter(mQuery);
+                        return true;
+                    }
+                });
         return true;
+    }
+
+    private void doFilter(String query) {
+        if (!isFiltered) {
+            mListAll.clear();
+            mListAll.addAll(mList);
+            isFiltered = true;
+        }
+
+        mList.clear();
+        if (query == null || query.isEmpty()) {
+            mList.addAll(mListAll);
+            isFiltered = false;
+        } else {
+            mListMapFilter.clear();
+            for (int i = 0; i < mListAll.size(); i++) {
+                Kota kota = mListAll.get(i);
+                if (kota.judul.toLowerCase().contains(query)) {
+                    mList.add(kota);
+                    mListMapFilter.add(i);
+                }
+            }
+        }
+        mAdapter.notifyDataSetChanged();
     }
 
     @Override
