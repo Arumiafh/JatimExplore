@@ -1,49 +1,257 @@
-<?xml version="1.0" encoding="utf-8"?><!--
-  ~ Copyright (C) 2016 The Android Open Source Project
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~      http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  -->
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="city">
-        <item>Bojonegoro</item>
-        <item>Blitar</item>
-        <item>Bondowoso</item>
+
+    <array name="iconkota">
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/bjngr</item>
+        <item>@drawable/bltr</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="title">
         <item>Bangkalan</item>
         <item>Banyuwangi</item>
+        <item>Blitar</item>
+        <item>Bojonegoro</item>
+        <item>Bondowoso</item>
         <item>Gresik</item>
-        <item>Jombang</item>
         <item>Jember</item>
+        <item>Jombang</item>
         <item>Kediri</item>
         <item>Kepanjen</item>
         <item>Lamongan</item>
         <item>Lumajang</item>
         <item>Madiun</item>
         <item>Magetan</item>
-        <item>Mojokerto</item>
         <item>Malang</item>
+        <item>Mojokerto</item>
         <item>Ngawi</item>
+        <item>Pasuruan</item>
         <item>Ponorogo</item>
         <item>Probolinggo</item>
-        <item>Pasuruan</item>
-        <item>Surabaya</item>
         <item>Sidoarjo</item>
-        <item>Sumenep</item>
         <item>Situbondo</item>
+        <item>Sumenep</item>
+        <item>Surabaya</item>
     </string-array>
 
-    <array name="city_picture">
-        <item>@drawable/bjngr</item>
+    <array name="tab1logo">
+        <item>@drawable/tab1logobangkalan</item>
+        <item>@drawable/tab1logobanyuwangi</item>
         <item>@drawable/bltr</item>
+        <item>@drawable/bjngr</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/stbnd</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/sby1</item>
+    </array>
+
+    <array name="tab2foto">
+        <item>@drawable/tab2fotobangkalan</item>
+        <item>@drawable/tab2fotobanyuwangi</item>
+        <item>@drawable/bltr</item>
+        <item>@drawable/bjngr</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/stbnd</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/sby1</item>
+    </array>
+
+    <string-array name="tab2title">
+        <item>Sejarah Bangkalan</item>
+        <item>Sejarah Banyuwangi</item>
+        <item>Sejarah Blitar</item>
+        <item>Sejarah Bojonegoro</item>
+        <item>Sejarah Bondowoso</item>
+        <item>Sejarah Gresik</item>
+        <item>Sejarah Jember</item>
+        <item>Sejarah Jombang</item>
+        <item>Sejarah Kediri</item>
+        <item>Sejarah Kepanjen</item>
+        <item>Sejarah Lamongan</item>
+        <item>Sejarah Lumajang</item>
+        <item>Sejarah Madiun</item>
+        <item>Sejarah Magetan</item>
+        <item>Sejarah Malang</item>
+        <item>Sejarah Mojokerto</item>
+        <item>Sejarah Ngawi</item>
+        <item>Sejarah Pasuruan</item>
+        <item>Sejarah Ponorogo</item>
+        <item>Sejarah Probolinggo</item>
+        <item>Sejarah Sidoarjo</item>
+        <item>Sejarah Situbondo</item>
+        <item>Sejarah Sumenep</item>
+        <item>Sejarah Surabaya</item>
+    </string-array>
+
+    <string-array name="tab2des">
+        <item>Bangkalan berasal dari kata “bangka” dan ”la-’an” yang artinya sudah matilah. stilah ini diambil dari cerita legenda tewasnya pemberontak sakti Ki Lesap yang tewas di Madura Barat.\n\
+                Menurut cerita, setelah kejayaan Arya Wiraraja sebagai adipati pertama di Madura, maka pada dekade berikutnya perubahan jaman mulai membentuk karakter orang-orang Madura. Jaman yang penuh pergulatan dan perjuangan kala itu. Yang paling mengenaskan ialah saat kolonial Belanda bercokol di Madura. Dan saat itulah banyak timbul pemberontakan-pemberontakan, yang kerap dikenal dengan pemberontakan Trunojoyo, Ke’ (Pak) Lesap, Sakerah dan lainnya.\n\
+                Tampilnya Pangeran Trunojoyo sebagai pahlawan melawan penjajah merupakan awal kebangkitan Madura sebagai langkah menuju pemberontakan berikutnya. Trunojoyo putra Pangeran Waluyo yang pada dasarnya berjuang untuk membasmi ketidak adilan disambut gegap gempita oleh rakyat Madura setelah meninggalkan Mataram yang kemudian menaklukkan seluruh Madura. Pada perjuangan berikutnya, Trunojoyo mendapat bantuan dari orang-orang Makasar yang melakukan perampokan-perampokan dilautan sekitar Jawa Timur setelah Makasar jatuh. Dari persekutuan Makasar-Madura itulah yang kemudian diperkuat perkawinan Putri Trunojoyo dengan tokoh dari Makasar, Karaeng Galesong. Menjadikan keterpaduan wilayah yang berjarak jauh itu. Keterpaduan itu dapat dibuktikan, bahwa banyak hal persamaan antara keduanya. Baik secara hidup masyarakatnya, watak, maupun sikap kesehariannya. Bahkan di Madura sendiri (pulau Kangean-Sumenep), bahasa yang dipergunakan bahasa daerah yang dipengaruhi oleh bahasa Madura, Bugis, Jawa dan Melayu.\n\
+        </item>
+        <item> Konon, dahulu kala wilayah ujung timur Pulau Jawa yang alamnya begitu indah ini dipimpin oleh seorang raja yang bernama Prabu Sulahkromo. Dalam menjalankan pemerintahannya ia dibantu oleh seorang Patih yang gagah berani, arif, tampan bernama Patih Sidopekso. Istri Patih Sidopekso yang bernama Sri Tanjung sangatlah elok parasnya, halus budi bahasanya sehingga membuat sang Raja tergila- gila padanya. Agar tercapai hasrat sang raja untuk membujuk dan merayu Sri Tanjung maka muncullah akal liciknya dengan memerintah Patih Sidopekso untuk menjalankan tugas yang tidak mungkin bisa dicapai oleh manusia biasa. Maka dengan tegas dan gagah berani, tanpa curiga, sang Patih berangkat untuk menjalankan titah Sang Raja. Sepeninggal Sang Patih Sidopekso, sikap tak senonoh Prabu Sulahkromo dengan merayu dan memfitnah Sri Tanjung dengan segala tipu daya dilakukanya. Namun cinta Sang Raja tidak kesampaian dan Sri Tanjung tetap teguh pendiriannya, sebagai istri yang selalu berdoa untuk suaminya. Berang dan panas membara hati Sang Raja ketika cintanya ditolak oleh Sri Tanjung. \n\
+            Ketika Patih Sidopekso kembali dari misi tugasnya, ia langsung menghadap Sang Raja. Akal busuk Sang Raja muncul, memfitnah Patih Sidopekso dengan menyampaikan bahwa sepeninggal Sang Patih pada saat menjalankan titah raja meninggalkan istana, Sri Tanjung mendatangi dan merayu serta bertindak serong dengan Sang Raja. Tanpa berfikir panjang, Patih Sidopekso langsung menemui Sri Tanjung dengan penuh kemarahan dan tuduhan yang tidak beralasan. \n\
+            Pengakuan Sri Tanjung yang lugu dan jujur membuat hati Patih Sidopekso semakin panas menahan amarah dan bahkan Sang Patih dengan berangnya mengancam akan membunuh istri setianya itu. Diseretlah Sri Tanjung ke tepi sungai yang keruh dan kumuh. Namun sebelum Patih Sidopekso membunuh Sri Tanjung, ada permintaan terakhir dari Sri Tanjung kepada suaminya, sebagai bukti kejujuran, kesucian dan kesetiannya ia rela dibunuh dan agar jasadnya diceburkan ke dalam sungai keruh itu, apabila darahnya membuat air sungai berbau busuk maka dirinya telah berbuat serong, tapi jika air sungai berbau harum maka ia tidak bersalah.\n\
+            Patih Sidopekso tidak lagi mampu menahan diri, segera menikamkan kerisnya ke dada Sri Tanjung. Darah memercik dari tubuh Sri Tanjung dan mati seketika. Mayat Sri Tanjung segera diceburkan ke sungai dan sungai yang keruh itu berangsur-angsur menjadi jernih seperti kaca serta menyebarkan bau harum, bau wangi. Patih Sidopekso terhuyung-huyung, jatuh dan ia jadi linglung, tanpa ia sadari, ia    menjerit "Banyu..... ... wangi............... . Banyu    wangi ... .." Banyuwangi terlahir dari bukti cinta istri    pada suaminya.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
+        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
+        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
+        deserunt mollit anim id est laborum.
+        </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+
+    </string-array>
+
+    <string-array name="tab3title">
+        <item>Kebudayaan Bangkalan</item>
+        <item>Kebudayaan Banyuwangi</item>
+        <item>Kebudayaan Blitar</item>
+        <item>Kebudayaan Bojonegoro</item>
+        <item>Kebudayaan Bondowoso</item>
+        <item>Kebudayaan Gresik</item>
+        <item>Kebudayaan Jember</item>
+        <item>Kebudayaan Jombang</item>
+        <item>Kebudayaan Kediri</item>
+        <item>Kebudayaan Kepanjen</item>
+        <item>Kebudayaan Lamongan</item>
+        <item>Kebudayaan Lumajang</item>
+        <item>Kebudayaan Madiun</item>
+        <item>Kebudayaan Magetan</item>
+        <item>Kebudayaan Malang</item>
+        <item>Kebudayaan Mojokerto</item>
+        <item>Kebudayaan Ngawi</item>
+        <item>Kebudayaan Pasuruan</item>
+        <item>Kebudayaan Ponorogo</item>
+        <item>Kebudayaan Probolinggo</item>
+        <item>Kebudayaan Sidoarjo</item>
+        <item>Kebudayaan Situbondo</item>
+        <item>Kebudayaan Sumenep</item>
+        <item>Kebudayaan Surabaya</item>
+    </string-array>
+
+    <string-array name="tab3des1">
+        <item> Pemerintah Kabupaten Bangkalan menyelenggarakan ajang kerapan sapi yang bertajuk “Bangkalan Bull Racing Event “ yang diselenggarakan di lapangan alun-alun Selatan Bangkalan. Dalam kerapan sapi ini diikuti oleh delapan pasang sapi kerap dari seluruh Kabupaten Bangkalan dan dibuka secara resmi oleh ketua BPK Republik Indonesia. Acara kemudian dilanjutkan dengan penampilan tari kolosal. Tari yang bercerita tentang kerapan sapi ini dipersembahkan oleh sanggar tari Tarara Bangkalan kepada para tamu, undangan. </item>
+        <item> Kabupaten Banyuwangi selain menjadi perlintasan dari Jawa ke Bali, juga merupakan daerah pertemuan berbagai jenis kebudayaan dari berbagai wilayah. Budaya masyarakat Banyuwangi diwarnai oleh budaya Jawa, Bali, Madura, Melayu, Eropa dan budaya lokal yang saling isi mengisi dan akhirnya menjadi tipikal yang tidak ditemui di wilayah manapun di Pulau Jawa. </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+    </string-array>
+
+    <array name="tab3foto1">
+        <item>@drawable/tab3foto1bangkalan</item>
+        <item>@drawable/tab3foto1banyuwangi</item>
         <item>@drawable/bndws</item>
         <item>@drawable/bngkln</item>
         <item>@drawable/bnywg</item>
@@ -68,57 +276,328 @@
         <item>@drawable/stbnd</item>
     </array>
 
-    <string-array name="places">
-        <item>Palais Garnie</item>
-        <item>Piazza del Duomo</item>
-        <item>Manhattan</item>
-        <item>Senso-ji</item>
+    <string-array name="tab3des2">
+        <item> Setelah itu dilanjutkan dengan parade sapi kerap yang diawali oleh penampilan grup Saronen, Ketua BPK RI dan bupati Bangkalan menyalami satu persatu peserta kirap sapi peserta.Ketika acara pembukaan dan penyambutan, giliran sapi kerap yang ambil bagian dalam kegiatan  </item>
+        <item> Kesenian tradisional khas Banyuwangi antara lain : Gandrung Banyuwangi, Seblang, Janger, Rengganis, Hadrah Kunthulan, Patrol, Mocopatan Pacul Goang, Jaranan Butho, Barong, Kebo-Keboan, Angklung Caruk, Gedhogan, Batik </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
     </string-array>
 
-    <string-array name="place_desc">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
+    <array name="tab3foto2">
+        <item>@drawable/tab3foto2bangkalan</item>
+        <item>@drawable/tab3foto2banyuwangi</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="tab3des3">
+        <item> Piala beserta hadiah diberikan kepada pemenang oleh ketua BPK RI dan bupati Bangkalan yang menandai berakhirnya Bangkalan Bull Race Event ke-6 Tahun 2011. Tapi acara tetap dilanjutkan dengan mengunjungi stan yang menjual  produk-produk kabupaten Bangkalan dari jajanan khas Bangkalan hingga batik Tanjung Bumi. Kerapan sapi merupakan kekayaan budaya Madura warisan nenek moyang yang harus dilestarikan. </item>
+        <item> Selain tari-tarian, banyuwangi juga memiliki alat music khas, yaitu Gamelan Banyuwangi, Gamelan tersebut khususnya yang dipakai dalam tari Gandrung memiliki kekhasan dengan adanya kedua biola, yang salah satunya dijadikan sebagai pantus atau pemimpin lagu. </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
     </string-array>
 
-    <string-array name="place_details">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
+    <string-array name="tab4title">
+        <item>Pariwisata Bangkalan</item>
+        <item>Pariwisata Banyuwangi</item>
+        <item>Pariwisata Blitar</item>
+        <item>Pariwisata Bojonegoro</item>
+        <item>Pariwisata Bondowoso</item>
+        <item>Pariwisata Gresik</item>
+        <item>Pariwisata Jember</item>
+        <item>Pariwisata Jombang</item>
+        <item>Pariwisata Kediri</item>
+        <item>Pariwisata Kepanjen</item>
+        <item>Pariwisata Lamongan</item>
+        <item>Pariwisata Lumajang</item>
+        <item>Pariwisata Madiun</item>
+        <item>Pariwisata Magetan</item>
+        <item>Pariwisata Malang</item>
+        <item>Pariwisata Mojokerto</item>
+        <item>Pariwisata Ngawi</item>
+        <item>Pariwisata Pasuruan</item>
+        <item>Pariwisata Ponorogo</item>
+        <item>Pariwisata Probolinggo</item>
+        <item>Pariwisata Sidoarjo</item>
+        <item>Pariwisata Situbondo</item>
+        <item>Pariwisata Sumenep</item>
+        <item>Pariwisata Surabaya</item>
     </string-array>
 
-    <string-array name="place_locations">
-        <item>8 Rue Scribe, 75009 Paris, France</item>
-        <item>Piazza del Capitolo - 50122 Florence</item>
-        <item>New York City</item>
-        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
+    <array name="tab4foto">
+        <item>@drawable/tab4fotobangkalan</item>
+        <item>@drawable/tab4fotobanyuwangi</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="tab4des">
+        <item> Bangkalan adalah salah satu kabupaten yang ada di Jawa Timur yang terdapat di pulau Madura yang dikelilingi oleh peraira yang indah dan tentunya memiliki banyak tempat wisata. Berikut 3 Tempat wisata yang harus anda kunjungi ketika berkunjung ke bangkalan : </item>
+        <item> Banyuwangi adalah salah satu kabupaten yang ada di Jawa Timur dan terletak di paling ujung timur Pulau Jawa. Banyuwangi menjadi kota transit para wisatawan yang ingin pergi ke Bali menggunakan jalur darat dan menyeberang di pelabuhan Ketapang. Jadi bagi Anda yang ingin berlibur ke Bali, bisa singgah untuk menikmati beberapa objek wisata di Banyuwangi, mulai dari wisata alam hingga wisata kuliner. Berikut 3 Tempat wisata yang harus anda kunjungi ketika berkunjung ke banyuwangi : </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
     </string-array>
+
+    <array name="tab4foto1">
+        <item>@drawable/tab4foto1bangkalan</item>
+        <item>@drawable/tab4foto1banyuwangi</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="tab4des1">
+        <item> 1. Tempat Wisata Pantai Rongkang Bangkalan Madura terletak di Desa Kwanyar Barat Kecamatan Kwanyar Kabupaten Bangkalan, kira-kira 35 km di selatan kota Bangkalan. Kabupaten Bangkalan merupakan sebuah kabupaten di Pulau Madura, Provinsi Jawa Timur, Indonesia. Ibukotanya adalah Bangkalan. Kabupaten ini terletak di ujung paling barat Pulau Madura; berbatasan dengan Laut Jawa di utara, Kabupaten Sampang di timur serta Selat Madura di selatan dan barat. </item>
+        <item> 1. Kawah Ijen, Kawah Ijen adalah sebuah kawah danau terbesar di Pulau Jawa dan  memilki pemandangan alam yang sangat indah, membuat siapa pun yang menyaksikannya akan kagum. Daya tarik utama dari objek wisata di Banyuwangi ini adalah api biru (blue fire). Api dengan warna biru di kawah ini terlihat semakin cantik saat kondisi di sekitarnya gelap. Jadi jika Anda ingin melihat keindahan api biru ini datanglah pada dini hari. Untuk sampai ke lokasi ini ada 2 jalur, yaitu jalur utara dan selatan. Waktu tempuh untuk jaur utara sekitar 2,5 jam yaitu dilalui dari Situbondo menuju Sempol (Bondowoso) dan berakhir di Paltuding. Jika menggunakan jalur selatan, melalui Banyuwangi menuju Licin yang berjarak kurang lebih 35 km. </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+    </string-array>
+
+    <array name="tab4foto2">
+        <item>@drawable/tab4foto2bangkalan</item>
+        <item>@drawable/tab4foto2banyuwangi</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="tab4des2">
+        <item> 2. Tempat Wisata Pantai Sambilangan Madura. Para Penelusur tau ga dimana Pantai Sambilangan?, kami disini mau berbagi beberapa keindahan dari Pantai Sambilangan. Karena Pantai Sambilangan merupakan pantai yang sangat eksotis yang terletak sekitar 7 km di sebelah selatan dari kota Bangkalan, di desa Sambilangan , kecamatan Bangkalan, Madura, Jawa Timur. Pantai Sambilangan terbilang merupakan pantai yang masih terpencil dan sangat alami. Walaupun begitu saat anda tiba di pantai ini anda tetap akan dikenakan tiket masuk kendaraan. Untuk kendaraan mobil akan dikenakan tarif sebesar Rp 3.000*) sedangkan motor sebesar Rp 2.000*). </item>
+        <item> 2. Pulau Merah, Nama Pantai ini disebut pulau merah disebabkan adanya pulau kecil tak jauh dari bibir pantai yang jika diamati mirip seperti bukit dengan tanahnya yang berwarna merah. Pantai ini pernah dijadikan sebagai tempat kompetisi selancar Internasional pada tahun 2013. Tempat wisata di Banyuwangi yang satu ini juga memiliki ombak yang ideal bagi peselancar. </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+    </string-array>
+
+    <array name="tab4foto3">
+        <item>@drawable/tab4foto3bangkalan</item>
+        <item>@drawable/tab4foto3banyuwangi</item>
+        <item>@drawable/bndws</item>
+        <item>@drawable/bngkln</item>
+        <item>@drawable/bnywg</item>
+        <item>@drawable/grsk</item>
+        <item>@drawable/jmbng</item>
+        <item>@drawable/jmbr</item>
+        <item>@drawable/kdr</item>
+        <item>@drawable/kpnjn</item>
+        <item>@drawable/lmgn</item>
+        <item>@drawable/lmjng</item>
+        <item>@drawable/mdun</item>
+        <item>@drawable/mgtn</item>
+        <item>@drawable/mjkrt</item>
+        <item>@drawable/mlg1</item>
+        <item>@drawable/ngw</item>
+        <item>@drawable/pnrg</item>
+        <item>@drawable/prob</item>
+        <item>@drawable/psrn</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/sda</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/stbnd</item>
+    </array>
+
+    <string-array name="tab4des3">
+        <item> 3. Bukit Geger terletak kurang lebih 30 km arah tenggara kota Bangkalan, tepatnya berada di desa Geger, kecamatan Geger. Dari Kota Bangkalan lurus terus ke arah utara yaitu ke arah kecamatan Arosbaya, lalu ke timur kearah kecamatan geger. Disitulah bukit itu berada. Bukit tersebut mudah dijangkau karena letaknya tepat dipinggir jalan raya. Di Bukit Geger, Para Penelusur ga cuma wisata alam, tetapi juga berwisata purbakala. </item>
+        <item> 3. Teluk yang memiliki hamparan pasir putih yang lembut dan dikelilingi hutan tropis ini memasuk kedalam kawasan Taman Nasional Meru Betiri. Teluk hijau memiliki air yang jernih kehijauan dan panorama alam yang memikat. Perjalanan ke objek wisata teluk hijau cukup melelahkan namun akan terbayar dengan keindahan alamnya yang mengagumkan. Disini Anda juga bisa melakukan banyak kegiatan seperti snorkeling, memancing dan berenang. </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+        <item> a </item>
+    </string-array>
+
 </resources>

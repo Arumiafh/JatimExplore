@@ -25,6 +25,7 @@
         android:ellipsize="end"
         android:maxLines="1"
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="#ffffff"
         tools:text="Kota"
 
         />
@@ -39,5 +40,6 @@
         android:ellipsize="end"
         android:maxLines="2"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+        android:textColor="#ffffff"
         tools:text="Deskripsi" />
 </RelativeLayout>

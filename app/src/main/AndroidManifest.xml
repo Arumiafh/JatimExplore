@@ -3,6 +3,7 @@
     package="id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore">
 
     <application
+        android:name="com.activeandroid.app.Application"
         android:allowBackup="true"
         android:hardwareAccelerated="false"
         android:icon="@drawable/icon"
@@ -10,6 +11,14 @@
         android:largeHeap="true"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="AA_DB_NAME"
+            android:value="db_kota.db" />
+        <meta-data
+            android:name="AA_DB_VERSION"
+            android:value="1" />
+
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
@@ -18,13 +27,13 @@
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-
             </intent-filter>
-
         </activity>
-        <activity android:name=".DaftarActivity">
-
-        </activity>
+        <activity android:name=".DaftarActivity"></activity>
+        <activity
+            android:name=".DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

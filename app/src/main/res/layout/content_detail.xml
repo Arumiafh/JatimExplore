@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore.DetailActivity"
+    tools:showIn="@layout/activity_detail">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingTop="16dp">
+
+        <ImageView
+            android:id="@+id/imageViewLogo"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            app:srcCompat="@drawable/tab1logobanyuwangi" />
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:text="Description"
+            android:textAlignment="center"
+            android:textColor="?attr/colorAccent" />
+
+        <ImageView
+            android:id="@+id/imageViewSej"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewTitleSej"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Sejarah Banyuwangi"
+            android:textAlignment="center"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/textViewDesSej"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+
+        <TextView
+            android:id="@+id/textViewTitleBud"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Kebudayaan Banyuwangi"
+            android:textAlignment="center"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/textViewDesBud1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewBud1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewDesBud2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewBud2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewDesBud3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewPar"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewTitlePar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="16dp"
+            android:text="Sejarah Banyuwangi"
+            android:textAlignment="center"
+            android:textColor="?attr/colorAccent" />
+
+        <TextView
+            android:id="@+id/textViewDesPar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewPar1"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewDesPar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewPar2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewDesPar2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+        <ImageView
+            android:id="@+id/imageViewPar3"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:fitsSystemWindows="true"
+            app:srcCompat="@drawable/bnywg" />
+
+        <TextView
+            android:id="@+id/textViewDesPar3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            tools:text="deskripsi" />
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>
