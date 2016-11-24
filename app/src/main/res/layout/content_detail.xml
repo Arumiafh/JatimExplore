@@ -11,6 +11,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:background="?android:attr/selectableItemBackground"
         android:orientation="vertical"
         android:paddingLeft="16dp"
         android:paddingRight="16dp"
@@ -29,7 +30,8 @@
             android:layout_marginBottom="16dp"
             android:text="Description"
             android:textAlignment="center"
-            android:textColor="?attr/colorAccent" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Headline"
+            android:textColor="@color/primary_material_dark" />
 
         <ImageView
             android:id="@+id/imageViewSej"
@@ -46,13 +48,15 @@
             android:layout_marginTop="16dp"
             android:text="Sejarah Banyuwangi"
             android:textAlignment="center"
-            android:textColor="?attr/colorAccent" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@color/abc_background_cache_hint_selector_material_light" />
 
         <TextView
             android:id="@+id/textViewDesSej"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
 
@@ -64,13 +68,15 @@
             android:layout_marginTop="16dp"
             android:text="Kebudayaan Banyuwangi"
             android:textAlignment="center"
-            android:textColor="?attr/colorAccent" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@color/abc_background_cache_hint_selector_material_light" />
 
         <TextView
             android:id="@+id/textViewDesBud1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -85,6 +91,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -99,6 +106,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -116,13 +124,15 @@
             android:layout_marginTop="16dp"
             android:text="Sejarah Banyuwangi"
             android:textAlignment="center"
-            android:textColor="?attr/colorAccent" />
+            android:textAppearance="@style/TextAppearance.AppCompat.Title"
+            android:textColor="@color/abc_background_cache_hint_selector_material_light" />
 
         <TextView
             android:id="@+id/textViewDesPar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -137,6 +147,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -151,6 +162,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
         <ImageView
@@ -165,6 +177,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
+            android:textColor="@color/abc_primary_text_disable_only_material_dark"
             tools:text="deskripsi" />
 
 

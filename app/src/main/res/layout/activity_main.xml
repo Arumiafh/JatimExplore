@@ -4,7 +4,7 @@
     android:id="@+id/slide"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/nav_cover"
+    android:background="@drawable/empat"
     android:scrollbars="vertical"
 
     tools:context="id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore.MainActivity">
@@ -78,13 +78,14 @@
 
         <TextView
             android:id="@+id/textView"
-            style="@style/Base.TextAppearance.AppCompat.Widget.ActionBar.Title"
+            style="@style/Base.TextAppearance.AppCompat.Large"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/slider"
             android:layout_centerHorizontal="true"
             android:fontFamily="@string/abc_capital_on"
             android:text="Hot News"
+            android:textColor="@color/abc_primary_text_material_dark"
             android:textStyle="bold" />
 
         <!--<include layout="@layout/content_main"-->
@@ -109,10 +110,13 @@
 
             <Button
                 android:id="@+id/showall"
+                style="@android:style/TextAppearance.Holo.Medium"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/recyclerView"
-                android:text="Show All" />
+                android:background="#0a1160"
+                android:text="Show All"
+                android:textColor="#ffffff" />
 
         </RelativeLayout>
 

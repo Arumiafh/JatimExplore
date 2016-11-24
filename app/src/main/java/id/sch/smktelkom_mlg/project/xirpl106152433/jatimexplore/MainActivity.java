@@ -43,6 +43,16 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
         //setSupportActionBar(toolbar);
         mDemoSlider = (SliderLayout) findViewById(R.id.slider);
 
+//        FancyButton showallbutton = new FancyButton(this);
+//        showallbutton.setText("Show All");
+//        showallbutton.setBackgroundColor(Color.parseColor("#3b5998"));
+//        showallbutton.setFocusBackgroundColor(Color.parseColor("#5474b8"));
+//        showallbutton.setTextSize(17);
+//        showallbutton.setRadius(5);
+//        showallbutton.setIconResource("\uf082");
+//        showallbutton.setIconPosition(FancyButton.POSITION_LEFT);
+//        showallbutton.setFontIconSize(30);
+
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
         recyclerView.setLayoutManager(layoutManager);
