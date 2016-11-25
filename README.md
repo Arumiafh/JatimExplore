@@ -22,10 +22,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 Link File APK dari Aplikasi :
 
+https://drive.google.com/file/d/0B4FQu99xsYM8bnR0R0RRakJEbjA/view?usp=sharing
 
--------------------------------------------------------
-
--------------------------------------------------------
 
 ### *Identitas Kelompok* 
   1. Arumia Fairuz Husna
