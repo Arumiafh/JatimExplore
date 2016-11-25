@@ -9,72 +9,72 @@
 -------------------------------------------------------
 #### *Screenshot Aplikasi:*
 
-## Screenshot Intro Slider 1 :
+# *Screenshot Intro Slider 1 :*
 
 ![Ss1](https://github.com/Arumiafh/JatimExplore/blob/master/1.png)
 
 
-## Screenshot Intro Slider 2 :
+# *Screenshot Intro Slider 2 :*
 
 ![Ss2](https://github.com/Arumiafh/JatimExplore/blob/master/2.png)
 
 
-## Screenshot Intro Slider 3 :
+# *Screenshot Intro Slider 3 :*
 
 ![Ss3](https://github.com/Arumiafh/JatimExplore/blob/master/3.png)
 
 
-## Screenshot Intro Slider 4 :
+# *Screenshot Intro Slider 4 :*
 
 ![Ss4](https://github.com/Arumiafh/JatimExplore/blob/master/4.png)
 
 
-## Screenshot Home View 1 :
+# *Screenshot Home View 1 :*
 
 ![Ss5](https://github.com/Arumiafh/JatimExplore/blob/master/5.png)
 
 
-## Screenshot Home View 2 :
+# *Screenshot Home View 2 :*
 
 ![Ss6](https://github.com/Arumiafh/JatimExplore/blob/master/6.png)
 
 
-## Screenshot List Daftar Kota 1 :
+# *Screenshot List Daftar Kota 1 :*
 
 ![Ss7](https://github.com/Arumiafh/JatimExplore/blob/master/7.png)
 
 
-## Screenshot List Daftar Kota 2 :
+# *Screenshot List Daftar Kota 2 :*
 
 ![Ss8](https://github.com/Arumiafh/JatimExplore/blob/master/8.png)
 
 
-## Screenshot Fitur Search :
+# *Screenshot Fitur Search :*
 
 ![Ss9](https://github.com/Arumiafh/JatimExplore/blob/master/10.png)
 
 
-## Screenshot Isi 1 :
+# *Screenshot Isi 1 :*
 
 ![Ss10](https://github.com/Arumiafh/JatimExplore/blob/master/11.png)
 
 
-## Screenshot Isi 2 :
+# *Screenshot Isi 2 :*
 
 ![Ss11](https://github.com/Arumiafh/JatimExplore/blob/master/12.png)
 
 
-## Screenshot Isi 3 :
+# *Screenshot Isi 3 :*
 
 ![Ss12](https://github.com/Arumiafh/JatimExplore/blob/master/13.png)
 
 
-## Screenshot Isi 4 :
+# *Screenshot Isi 4 :*
 
 ![Ss13](https://github.com/Arumiafh/JatimExplore/blob/master/14.png)
 
 
-## Screenshot Isi 5 :
+# *Screenshot Isi 5 :*
 
 ![Ss14](https://github.com/Arumiafh/JatimExplore/blob/master/15.png)
 
