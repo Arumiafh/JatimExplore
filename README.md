@@ -82,8 +82,8 @@
 Video :
 
 <a href="https://youtu.be/oi4BPi0KtOI
-" target="_blank"><img src="http://img.youtube.com/vi/id/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://img.youtu.be./oi4BPi0KtOI.jpg" 
+alt="Watch Full Video" width="240" height="180" border="10" /></a>
 
 
 -------------------------------------------------------
