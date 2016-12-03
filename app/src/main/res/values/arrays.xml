@@ -8,24 +8,24 @@
         <item>@drawable/bltr</item>
         <item>@drawable/bndws</item>
         <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
         <item>@drawable/jmbr</item>
+        <item>@drawable/jmbng</item>
         <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
         <item>@drawable/lmgn</item>
         <item>@drawable/lmjng</item>
         <item>@drawable/mdun</item>
         <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
         <item>@drawable/mlg1</item>
+        <item>@drawable/mjkrt</item>
         <item>@drawable/ngw</item>
+        <item>@drawable/psrn</item>
         <item>@drawable/pnrg</item>
         <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
         <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
         <item>@drawable/stbnd</item>
+        <item>@drawable/smnp</item>
+        <item>@drawable/sby1</item>
+        <item>@drawable/tbn</item>
     </array>
 
     <string-array name="title">
@@ -38,7 +38,6 @@
         <item>Jember</item>
         <item>Jombang</item>
         <item>Kediri</item>
-        <item>Kepanjen</item>
         <item>Lamongan</item>
         <item>Lumajang</item>
         <item>Madiun</item>
@@ -53,60 +52,61 @@
         <item>Situbondo</item>
         <item>Sumenep</item>
         <item>Surabaya</item>
+        <item>Tuban</item>
     </string-array>
 
     <array name="tab1logo">
         <item>@drawable/tab1logobangkalan</item>
         <item>@drawable/tab1logobanyuwangi</item>
-        <item>@drawable/bltr</item>
-        <item>@drawable/bjngr</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/stbnd</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/sby1</item>
+        <item>@drawable/tab1logoblitar</item>
+        <item>@drawable/tab1logobojonegoro</item>
+        <item>@drawable/tab1logobondowoso</item>
+        <item>@drawable/tab1logogresik</item>
+        <item>@drawable/tab1logojember</item>
+        <item>@drawable/tab1logojombang</item>
+        <item>@drawable/tab1logokediri</item>
+        <item>@drawable/tab1logolamongan</item>
+        <item>@drawable/tab1logolumajang</item>
+        <item>@drawable/tab1logomadiun</item>
+        <item>@drawable/tab1magetan</item>
+        <item>@drawable/tab1malang</item>
+        <item>@drawable/tab1mojokerto</item>
+        <item>@drawable/tab1ngawi</item>
+        <item>@drawable/tab1logopasuruan</item>
+        <item>@drawable/tab1ponorogo</item>
+        <item>@drawable/tab1probolinggo</item>
+        <item>@drawable/tab1logosidoarjo</item>
+        <item>@drawable/tab1logositubondo</item>
+        <item>@drawable/tab1logosumenep</item>
+        <item>@drawable/tab1logosurabaya</item>
+        <item>@drawable/tab1tuban</item>
     </array>
 
     <array name="tab2foto">
         <item>@drawable/tab2fotobangkalan</item>
         <item>@drawable/tab2fotobanyuwangi</item>
-        <item>@drawable/bltr</item>
-        <item>@drawable/bjngr</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/stbnd</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/sby1</item>
+        <item>@drawable/tab2fotoblitarjpg</item>
+        <item>@drawable/tab2logobojonegoro</item>
+        <item>@drawable/tab2fotobondowoso</item>
+        <item>@drawable/tab2gresik</item>
+        <item>@drawable/tab2fotojember</item>
+        <item>@drawable/tab2sejarahjombang</item>
+        <item>@drawable/tab2fotokediri</item>
+        <item>@drawable/tab2lamongan</item>
+        <item>@drawable/tab2lumajang</item>
+        <item>@drawable/tab2fotomadiun</item>
+        <item>@drawable/tab2magetan</item>
+        <item>@drawable/tab2malang</item>
+        <item>@drawable/tab2mojokerto</item>
+        <item>@drawable/tab2ngawi</item>
+        <item>@drawable/tab2fotopasuruan</item>
+        <item>@drawable/tab2ponorogo</item>
+        <item>@drawable/tab2probolinggo</item>
+        <item>@drawable/tab2fotosidoarjo</item>
+        <item>@drawable/tab2sejarahsitubondo</item>
+        <item>@drawable/tab2fotosumenep</item>
+        <item>@drawable/tab2fotosurabaya</item>
+        <item>@drawable/tab2tuban</item>
     </array>
 
     <string-array name="tab2title">
@@ -119,7 +119,6 @@
         <item>Sejarah Jember</item>
         <item>Sejarah Jombang</item>
         <item>Sejarah Kediri</item>
-        <item>Sejarah Kepanjen</item>
         <item>Sejarah Lamongan</item>
         <item>Sejarah Lumajang</item>
         <item>Sejarah Madiun</item>
@@ -134,65 +133,114 @@
         <item>Sejarah Situbondo</item>
         <item>Sejarah Sumenep</item>
         <item>Sejarah Surabaya</item>
+        <item>Sejarah Tuban</item>
     </string-array>
 
     <string-array name="tab2des">
-        <item>Bangkalan berasal dari kata “bangka” dan ”la-’an” yang artinya sudah matilah. stilah ini diambil dari cerita legenda tewasnya pemberontak sakti Ki Lesap yang tewas di Madura Barat.\n\
-                Menurut cerita, setelah kejayaan Arya Wiraraja sebagai adipati pertama di Madura, maka pada dekade berikutnya perubahan jaman mulai membentuk karakter orang-orang Madura. Jaman yang penuh pergulatan dan perjuangan kala itu. Yang paling mengenaskan ialah saat kolonial Belanda bercokol di Madura. Dan saat itulah banyak timbul pemberontakan-pemberontakan, yang kerap dikenal dengan pemberontakan Trunojoyo, Ke’ (Pak) Lesap, Sakerah dan lainnya.\n\
-                Tampilnya Pangeran Trunojoyo sebagai pahlawan melawan penjajah merupakan awal kebangkitan Madura sebagai langkah menuju pemberontakan berikutnya. Trunojoyo putra Pangeran Waluyo yang pada dasarnya berjuang untuk membasmi ketidak adilan disambut gegap gempita oleh rakyat Madura setelah meninggalkan Mataram yang kemudian menaklukkan seluruh Madura. Pada perjuangan berikutnya, Trunojoyo mendapat bantuan dari orang-orang Makasar yang melakukan perampokan-perampokan dilautan sekitar Jawa Timur setelah Makasar jatuh. Dari persekutuan Makasar-Madura itulah yang kemudian diperkuat perkawinan Putri Trunojoyo dengan tokoh dari Makasar, Karaeng Galesong. Menjadikan keterpaduan wilayah yang berjarak jauh itu. Keterpaduan itu dapat dibuktikan, bahwa banyak hal persamaan antara keduanya. Baik secara hidup masyarakatnya, watak, maupun sikap kesehariannya. Bahkan di Madura sendiri (pulau Kangean-Sumenep), bahasa yang dipergunakan bahasa daerah yang dipengaruhi oleh bahasa Madura, Bugis, Jawa dan Melayu.\n\
+        <item>Bangkalan berasal dari kata bangka dan la-an yang artinya sudah matilah. stilah ini diambil dari cerita legenda tewasnya pemberontak sakti Ki Lesap yang tewas di Madura Barat.\n\n\
+                Menurut cerita, setelah kejayaan Arya Wiraraja sebagai adipati pertama di Madura, maka pada dekade berikutnya perubahan jaman mulai membentuk karakter orang-orang Madura. Jaman yang penuh pergulatan dan perjuangan kala itu. Yang paling mengenaskan ialah saat kolonial Belanda bercokol di Madura. Dan saat itulah banyak timbul pemberontakan-pemberontakan, yang kerap dikenal dengan pemberontakan Trunojoyo, Ke’ (Pak) Lesap, Sakerah dan lainnya.\n\n\
+                Tampilnya Pangeran Trunojoyo sebagai pahlawan melawan penjajah merupakan awal kebangkitan Madura sebagai langkah menuju pemberontakan berikutnya. Trunojoyo putra Pangeran Waluyo yang pada dasarnya berjuang untuk membasmi ketidak adilan disambut gegap gempita oleh rakyat Madura setelah meninggalkan Mataram yang kemudian menaklukkan seluruh Madura. Pada perjuangan berikutnya, Trunojoyo mendapat bantuan dari orang-orang Makasar yang melakukan perampokan-perampokan dilautan sekitar Jawa Timur setelah Makasar jatuh. Dari persekutuan Makasar-Madura itulah yang kemudian diperkuat perkawinan Putri Trunojoyo dengan tokoh dari Makasar, Karaeng Galesong. Menjadikan keterpaduan wilayah yang berjarak jauh itu. Keterpaduan itu dapat dibuktikan, bahwa banyak hal persamaan antara keduanya. Baik secara hidup masyarakatnya, watak, maupun sikap kesehariannya. Bahkan di Madura sendiri (pulau Kangean-Sumenep), bahasa yang dipergunakan bahasa daerah yang dipengaruhi oleh bahasa Madura, Bugis, Jawa dan Melayu.\n\n\
         </item>
-        <item> Konon, dahulu kala wilayah ujung timur Pulau Jawa yang alamnya begitu indah ini dipimpin oleh seorang raja yang bernama Prabu Sulahkromo. Dalam menjalankan pemerintahannya ia dibantu oleh seorang Patih yang gagah berani, arif, tampan bernama Patih Sidopekso. Istri Patih Sidopekso yang bernama Sri Tanjung sangatlah elok parasnya, halus budi bahasanya sehingga membuat sang Raja tergila- gila padanya. Agar tercapai hasrat sang raja untuk membujuk dan merayu Sri Tanjung maka muncullah akal liciknya dengan memerintah Patih Sidopekso untuk menjalankan tugas yang tidak mungkin bisa dicapai oleh manusia biasa. Maka dengan tegas dan gagah berani, tanpa curiga, sang Patih berangkat untuk menjalankan titah Sang Raja. Sepeninggal Sang Patih Sidopekso, sikap tak senonoh Prabu Sulahkromo dengan merayu dan memfitnah Sri Tanjung dengan segala tipu daya dilakukanya. Namun cinta Sang Raja tidak kesampaian dan Sri Tanjung tetap teguh pendiriannya, sebagai istri yang selalu berdoa untuk suaminya. Berang dan panas membara hati Sang Raja ketika cintanya ditolak oleh Sri Tanjung. \n\
-            Ketika Patih Sidopekso kembali dari misi tugasnya, ia langsung menghadap Sang Raja. Akal busuk Sang Raja muncul, memfitnah Patih Sidopekso dengan menyampaikan bahwa sepeninggal Sang Patih pada saat menjalankan titah raja meninggalkan istana, Sri Tanjung mendatangi dan merayu serta bertindak serong dengan Sang Raja. Tanpa berfikir panjang, Patih Sidopekso langsung menemui Sri Tanjung dengan penuh kemarahan dan tuduhan yang tidak beralasan. \n\
-            Pengakuan Sri Tanjung yang lugu dan jujur membuat hati Patih Sidopekso semakin panas menahan amarah dan bahkan Sang Patih dengan berangnya mengancam akan membunuh istri setianya itu. Diseretlah Sri Tanjung ke tepi sungai yang keruh dan kumuh. Namun sebelum Patih Sidopekso membunuh Sri Tanjung, ada permintaan terakhir dari Sri Tanjung kepada suaminya, sebagai bukti kejujuran, kesucian dan kesetiannya ia rela dibunuh dan agar jasadnya diceburkan ke dalam sungai keruh itu, apabila darahnya membuat air sungai berbau busuk maka dirinya telah berbuat serong, tapi jika air sungai berbau harum maka ia tidak bersalah.\n\
-            Patih Sidopekso tidak lagi mampu menahan diri, segera menikamkan kerisnya ke dada Sri Tanjung. Darah memercik dari tubuh Sri Tanjung dan mati seketika. Mayat Sri Tanjung segera diceburkan ke sungai dan sungai yang keruh itu berangsur-angsur menjadi jernih seperti kaca serta menyebarkan bau harum, bau wangi. Patih Sidopekso terhuyung-huyung, jatuh dan ia jadi linglung, tanpa ia sadari, ia    menjerit "Banyu..... ... wangi............... . Banyu    wangi ... .." Banyuwangi terlahir dari bukti cinta istri    pada suaminya.
+        <item> Konon, dahulu kala wilayah ujung timur Pulau Jawa yang alamnya begitu indah ini dipimpin oleh seorang raja yang bernama Prabu Sulahkromo. Dalam menjalankan pemerintahannya ia dibantu oleh seorang Patih yang gagah berani, arif, tampan bernama Patih Sidopekso. Istri Patih Sidopekso yang bernama Sri Tanjung sangatlah elok parasnya, halus budi bahasanya sehingga membuat sang Raja tergila- gila padanya. Agar tercapai hasrat sang raja untuk membujuk dan merayu Sri Tanjung maka muncullah akal liciknya dengan memerintah Patih Sidopekso untuk menjalankan tugas yang tidak mungkin bisa dicapai oleh manusia biasa. Maka dengan tegas dan gagah berani, tanpa curiga, sang Patih berangkat untuk menjalankan titah Sang Raja. Sepeninggal Sang Patih Sidopekso, sikap tak senonoh Prabu Sulahkromo dengan merayu dan memfitnah Sri Tanjung dengan segala tipu daya dilakukanya. Namun cinta Sang Raja tidak kesampaian dan Sri Tanjung tetap teguh pendiriannya, sebagai istri yang selalu berdoa untuk suaminya. Berang dan panas membara hati Sang Raja ketika cintanya ditolak oleh Sri Tanjung.\n\n\
+            Pengakuan Sri Tanjung yang lugu dan jujur membuat hati Patih Sidopekso semakin panas menahan amarah dan bahkan Sang Patih dengan berangnya mengancam akan membunuh istri setianya itu. Diseretlah Sri Tanjung ke tepi sungai yang keruh dan kumuh. Namun sebelum Patih Sidopekso membunuh Sri Tanjung, ada permintaan terakhir dari Sri Tanjung kepada suaminya, sebagai bukti kejujuran, kesucian dan kesetiannya ia rela dibunuh dan agar jasadnya diceburkan ke dalam sungai keruh itu, apabila darahnya membuat air sungai berbau busuk maka dirinya telah berbuat serong, tapi jika air sungai berbau harum maka ia tidak bersalah.\n\n\
+            Patih Sidopekso tidak lagi mampu menahan diri, segera menikamkan kerisnya ke dada Sri Tanjung. Darah memercik dari tubuh Sri Tanjung dan mati seketika. Mayat Sri Tanjung segera diceburkan ke sungai dan sungai yang keruh itu berangsur-angsur menjadi jernih seperti kaca serta menyebarkan bau harum, bau wangi. Patih Sidopekso terhuyung-huyung, jatuh dan ia jadi linglung, tanpa ia sadari, ia    menjerit "Banyu..... ... wangi............... . Banyu    wangi ... .." Banyuwangi terlahir dari bukti cinta istri    pada suaminya.\n\n\
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
-        </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item>
+            Pada zaman dahulu, di wilayah Kabupaten Blitar ada sebuah kadipaten (Kabupaten) bernama Kadipaten Aryablitar. Adipati-nya (bupatinya) bernama Adipati Nila Suwarna. Adipati ini mempunyai seorang wakil bernama Ki Ageng Sengguruh. Ki Ageng Sengguruh pada mulanya sangat patuh dan setia pada Adipati Nila Suwarna. Isteri Ki Ageng Sengguruh yang bernama Nyai Ageng Sengguruh tidak suka pada kepatuhan dan kesetiaan suaminya. Apalagi Nyai Ageng Sengguruh sudah lama ingin menjadi permaisuri seorang adipati. Nyai Ageng Sengguruh merayu Ki Ageng Sengguruh agar mau merebut kekuasaan Adipati Nila Suwarna.\n\n\
+            Ki Ageng Sengguruh termakan rayuan Nyai Ageng Sengguruh. Dia menjadi manusia bermuka dua. Di depan Adipati Nila Suwarna, Ki Ageng Sengguruh selalu menampakkan kepatuhan dan kesetiaannya. Di belakang, Ki Ageng Sengguruh selalu menjelek-jelekkan Adipati Nila Suwarna. Ki Ageng Sengguruh juga berhasil merayu beberapa punggawa kadipaten untuk diajak mencari kesempatan merebut kekuasaan. Kesempatan yang ditunggu-tunggu Ki Ageng Sengguruh untuk merebut kekuasaan pun datang. Saat itu, permaisuri Adipati Nila Suwarna yang bernama Dewi Rayungwulan sedang hamil. Dewi Rayungwulan pun mengidam. Ia ingin sekali makan ikan bader abang asisik kencana (bader merah bersisik emas). Dewi Rayungwulan menyampaikan keinginannya pada Adipati Nila Suwarna.\n\n\
+            “Aku sangat senang Dinda hamil. Sudah lama kurindukan untuk mempunyai anak. Kini keinginku akan segera terwujud. Namun, permintaan Dinda ingin makan ikan bader merah bersisik emas sangat aneh. Tapi biarlah! Aku akan minta bantuan Paman Patih Ki Ageng Sengguruh untuk mencarinya,” kata Adipati Nila Suwarna pada Dewi Rayungwulan.\n\n\
 
+        </item>
+        <item>Di waktu masa Maha Raja Balitung (th – 910 M) yang menguasai Jawa Tengah dan Jawa Timur daerah yang sekarang dikenal dengan nama Bojonegoro belumlah ada. Yang ada hanyalah hutan luas yang diimpit oleh pegunungan kapur di sebelah selatan dan utara yang dilewati sungai bengawan solo dan sungai brantas.\n\n\
+        Hutan ini baru ditempati kira-kira tahun 1000 masehi oleh orang-orang Keratin Madang Kemulan. Awal mulanya hutan ini diberi nama alas tuo (hutan tua), namun setelah masyarakat imigran dari Jawa Tengah datang, mulailah banyak didirikan desa-desa di sekitar hutan. Diantaranya adalah Desa Gadung, Desa Dander dan sebagainya.\n\n\
+        Para pendatang yang mendirikan desa-desa itu membuat masyarakat sendiri berdasarakan hubungan keluarga. Di tiap-tiap masyarakat tersebut terdapat kepala desa. Di antara kepala desa tersebut, ada yang bernama Ki Rahadi yang menguasai Dukuh Randu Gempol. Akibat masuknya kebudayaan hindu yang di terima Ki Rahadi, maka cara pemerintahan yang sedang ia pegang cenderung meniru cara pemerintahan hindu.\n\n\
+        Kemudian nama Ki Raharadi di ubah menjadi Rakai Purnawakilan. Dukuh Randu Gempol diubah menjadi Kerajaan Hurandhu Purwo (sekarang tempatnya di Plesungan, Kapas). Beliau mengangkat dirinya sendiri menjadi raja yang mempunyai aliran Syiwa. Kerajaan diperluas dari Gunung Pegat hutan Babatan (sekarang Babat), sampai Purwosari Cepu dan Jatirogo (Tuban) sampai layaknya benteng pertahanan kerajaan. Pusat kerajaan berlokasi di daerah Kedaton (sekarang di daerah Kapas).\n\n\
+
+        </item>
+        <item>Pada kerajaan yang cukup megah di pulau Madura. Kerajaan ini memiliki wilayah yang luas, istana megah yang artistic dengan penataan gedung-gedung serta taman yang indah dan asri. Kerajaan ini dipimpin oleh seorang raja memiliki beberapa orang putra, diantaranya bernama Raden Bagus Asra. Keberadaan putra-putranya merupakan kebahagiaan bagi kalangan keluarga kerajaan. Raden Bagus Asra memiliki jiwa kepemimpinan yang bisa diandalkan.\n\n\
+                Untuk memperluas daerah kekuasaan kerajaan, raja mengutus Raden Bagus Asra ke pulau jawa bagian Timur. Dalam perjalannya didampingi oleh pengikut dan beberapa tentara kerajaan. Perjalan ke pulau Jawa ini melewati jalur laut yaitu selat Madura. Dari perjalan itu akhirnya mendarat di suatu daerah yang bernama Besuki. Berawal dari Besuki inilah Raden Bagus Asra mengembara dan membuka hutan ke arah Selatan.\n\n\
+                Hari demi hari bulan demi bulan, pekerjaan membabat hutan untuk dijadikan wilayah komunitas masyarakat baru dan wilayah kerajaan. Perjalanan untuk membuka wilayah baru melewati daerah perbukitan, lembah-lembah dan perkampungan-perkampungan kecil yang dihuni oleh beberapa kepala keluarga saja. Mereka umumnya bercocok tanam dan beterbak sebagai mata pencaharian.\n\n\
+                Kehidupan mereka penuh gotong royong dan kekeluargaan. Suasana desa yang damai, aman dan nyaman membuat Raden Bagus Asra dan pengikutnya betah untuk singgah beberapa hari di desa itu untuk beristirahat dan memenuhi perbekalan perjalanan selanjutnya. Raden Bagus Asra tidak hanya membuka hutan saja, tetapi memberikan bimbingan dan penyuluhan cara bercocok tanam dan beternak yang baik kepada masyarakat kampung-kampung yang disinggahinya.\n\n\
+                Di sela-sela istirahatnya di suatu pedukuhan, para pengikut Raden Bagus Asra membuat  suatu hiburan dan atraksi yaitu aduan sapi. Dimana aduan sapi ini merupakan hiburan yang sangat disenangi dan terus digandrungi oleh pengikut-pengikutnya dan masyarakat  pedukuhan yang dilewati oleh Raden Bagus Asra, sehingga aduan sapi ini menjadi suatu kebiasaan yang terus terpelihara sampai sekarang. Terutama di daerah-daerah yang pernah dilewati oleh Raden Bagus Asra dan pengikutnya.\n\n\
+                Pada suatu saat Raden Bagus Asra dan pengikutnya tiba di suatu daerah pedukuhan yang subur. Dari kehidupan masyarakatnya terdapat seorang tuan tanah yang kaya. Dengan kekayaan inilah tuan tanah tersebut dapat mengatur daerahnya dan berkuasa disana. Berawal dari kondisi inilah akhirnya Raden Bagus Asra menamakan pedukuhan itu dengan nama Bondowoso yang mempunyai arti Bondo adalah modal atau biaya dan Woso adalah kuasa. Sehingga secara harfiyah dapat diartikan “mereka yang memiliki modal dapat berkuasa”. Di daerah inilah Raden Bagus Asra bersama pengikutnya mengakhiri perjalan dan menetap untuk bercocok tanam serta hidup di sana. Raden Bagus Asra bersama orang kaya tersebut mengembangkan potensi alam yang ada dan sebagai perintis berdirinya kota Bondowoso.\n\n\
+        </item>
+        <item>Gresik sudah dkenal sejak abad ke-11 ketika tumbuh menjadi pusat perdagangan tidak saja antar pulau, tetapi sudah meluas keberbagai Negara. Sebaga kota Bandar, Gresik banyak dikunjungi pedagang Cina, Arab, Gujarat, Kalkuta, Siam, Benggali, Campa dan lain-lain. Gresik mulai tampil menonjol dalam peraturan sejarah sejak berkembangnya agama Islam di tanah Jawa. Pembawa dan penyebar agama islam tersebut tidak lain adalah Syech Maulana Malik Ibrahim yang bersama-sama Fatimah Binti Maimun masuk ke Gresik pada awal abad ke-11.\n\n\
+            Sejak lahir dan berkembangnya kota Gresk selain berawal dari masuknya agama Islam yang kemudian menyebar keseluruh pulau Jawa, tidak terlepas dari nama Nyai Ageng Penatih, dari janda Kaya Raya, yang juga seorang syahbandar, inilah nantinya akan kita temukan nama seseorang yang kemudian menjadi tonggak sejarah berdirinya kota Gresik.\n\n\
+            Dia adalah seorang bayi asal Blambangan (Kabupaten Banyuwangi) yang dbuang ke laut oleh orang tuanya. Dan ditemukan oleh para pelaut anak buah Nyai Ageng Pinatih yang kemudian diberi nama Jaka Samudra. Setelah perjaka bergelar Raden Paku yang kemudian menjadi penguasa pemerintahan yang berpusat di Giri Kedaton, dari tempat inilah beliau kemudian dikenal dengan panggilan Sunan Giri. Kalau Syech Maulana Malik Ibrahim pada jamannya dianggap sebagai para penguasa, tiang para raja dan menteri, maka Sunan Giri disamping kedudukannya sebagai seorang Sunan atau Wali (penyebar agama Islam) juga dianggap sebagai Sultan/Prabu (penguasa pemerintahan)\n\n\
+        </item>
+        <item> Dahulu kala, di tepi pantai selatan Pulau Jawa terdapat kerajaan makmur dan tentram. Rajanya arif dan bijaksana. Segala hasil bumi negerinya dimanfaatkan untuk kesejahteraan rakyat. Karena itulah, rakyatnya hidup makmur.Kemakmuran kerajaan itu mengundang decak kagum dari kerajaan-kerajaan lain. Namun, juga mengundang niat jahat sekelompok bajak laut. Mereka ingin menaklukan dan menguasai kerajaan itu. Ketika para pengawal kerajaan sedang lengah, kelompok bajak laut menyerang. Menghadapi serbuan mendadak itu, pasukan kerajaan kalang kabut. Raja ikut berjuang langsung untuk mempertahankan kerajaannya. Namun ia lalu gugur dalam serangan itu. Begitu pula dengan putra-putra dan para menterinya.Para pasukan hanya berhasil menyelamatkan putri Raja yang bernama Putri Jembarsari. Ia lah satu-satunya pewaris kerajaan yang masih selamat. Para pasukan lalu membawa sang putri ke daerah yang aman, jauh dari kerajaan. \n\n\
+                Kawanan bajak laut bergembira atas kemenangan itu. Kini, kerajaan itu pun dipimpin oleh kepala bajak laut.Sementara itu, pengawal kerajaan yang membawa lari Putri Jembarsari tiba di tempat tersembunyi. Selama dalam persembunyian, Putri Jembarsari diajarkan berbagai ilmu beladiri. Putri Jembarsari pun dapat dengan mudah menerima berbagai ilmu itu. Kini, Putri Jembarsari tumbuh menjadi gadis yang cantik dan menguasai berbagai ilmu beladiri. Iapun lalu diangkat menjadi pemimpin.Di daerah itu Putri Jembarsari dan pasukannya membuka hutan belantara menjadi sebuah perkampungan yang aman. Lama-kelamaan, banyak orang dari luar daerah berdatangan, lalu bermukim disana. Akhirnya, daerah itu menjadi sebuah kerajaan kecil yang dipimpin oleh Putri Jembarsari.Sementara kerajaan Putri Ambarsari semakin besar, tidak demikian halnya dengan kerajaan para bajak laut yang makin terpuruk. Rakyat daerah itu tidak puas dengan pemimpinnya hingga sering terjadi pemberontakan. Dalam pemberontakan yang terakhir, raja bajak laut tewas.Rakyat di kerajaan bajak laut lalu mencari Putri Jembarsari. Mereka meminta Putri Jembarsari mengambil alih kembali kerajaan bajak laut dan meneruskan tahta ayahandanya.\n\n\
+                Namun, Putri Jembarsari bingung. Ia berpikir,Aku kan sudah memiliki kerajaan sendiri. Kalau aku menjadi Ratu di kerajaan bajak laut, siapa yang akan memimpin kerajaan ini? “Namun, penasihatnya memberi usul. Kata penasihat kerajaan, lebih baik kedua kerajaan itu digabung saja. Pasti rakyat kedua kerajaan tidak akan keberatan. Putri Jembarsari lalu memutuskan‚Baiklah. Itu usul yang baik. Aku setuju untuk menggabungkan dua kerajaan ini.Usul itu pun dilaksanakan. Kini, kerajaan yang dipimpin Putri Jembarsari makin luas. Ternyata, masih saja ada yang iri hati dengan kesuksesan Putri Jembarsari. Ketika mengadakan kunjungan keluar kota, Putri Jembarsari dan pasukannya diserang oleh orang yang iri hati.Karena tidak siap menghadapi serangan mendadak, Putri Jembarsari gugur. Seluruh rakyat berduka. Untuk mengenang jasanya, nama Putri Jembarsari diabadikan menjadi nama kerajaan itu, yaitu Kerajaan Jembarsari. Lama-kelamaan, nama itu berubah menjadi Jember dan tetap abadi sampai sekarang. Jember terletak di Jawa Timur. \n\n\
+            </item>
+        <item> Jombang termasuk Kabupaten yang masih muda usia, setelah memisahkan diri dari gabungannya dengan Kabupaten Mojokerto yang berada di bawah pemerintahan Bupati Raden Adipati Ario Kromodjojo, yang ditandai dengan tampilnya pejabat yang pertama mulai tahun 1910 sampai dengan tahun 1930 yaitu : Raden Adipati Ario Soerjo Adiningrat. \n\n\
+                Menurut sejarah lama, konon dalam cerita rakyat mengatakan bahwa salah satu desa yaitu desa Tunggorono, merupakan gapura keraton Majapahit bagian Barat, sedang letak gapura sebelah selatan di desa Ngrimbi, dimana sampai sekarang masih berdiri candinya. Cerita rakyat ini dikuatkan dengan banyaknya nama-nama desa dengan awalan "Mojo" (Mojoagung, Mojotrisno, Mojolegi, Mojowangi, Mojowarno, Mojojejer, Mojodanu dan masih banyak lagi). \n\n\
+                Salah Satu Peninggalan Sejarah di Kabupaten JombangCandi Ngrimbi, Pulosari Bareng Bahkan di dalam lambang daerah Jombang sendiri dilukiskan sebuah gerbang, yang dimaksudkan sebagai gerbang Mojopahit dimana Jombang termasuk wewenangnya Suatu catatan yang pernah diungkapkan dalam majalah Intisari bulan Mei 1975 halaman 72, dituliskan laporan Bupati Mojokerto Raden Adipati Ario Kromodjojo kepada residen Jombang tanggal 25 Januari 1898 tentang keadaan Trowulan (salah satu onderdistrict afdeeling Jombang) pada tahun 1880. \n\n\
+                Sehingga kegiatan pemerintahan di Jombang sebenarnya bukan dimulai sejak berdirinya (tersendiri) Kabupaten jombang kira-kira 1910, melainkan sebelum tahun 1880 dimana Trowulan pada saat itu sudah menjadi onderdistrict afdeeling Jombang, walaupun saat itu masih terjalin menjadi satu Kabupaten dengan Mojokerto. Fakta yang lebih menguatkan bahwa sistem pemerintahan Kabupaten Jombang telah terkelola dengan baik adalah saat itu telah ditempatkan seorang Asisten Resident dari Pemerintahan Belanda yang kemungkinan wilayah Kabupaten Mojokerto dan Jombang Lebih-lebih bila ditinjau dari berdirinya Gereja Kristen Mojowarno sekitar tahun 1893 yang bersamaan dengan berdirinya Masjid Agung di Kota Jombang, juga tempat peribadatan Tridharma bagi pemeluk Agama Kong hu Chu di kecamatan Gudo sekitar tahun 1700. \n\n\
+        </item>
+        <item> Artefak arkeologi yang ditemukan pada tahun 2007 menunjukkan bahwa daerah sekitar Kediri menjadi lokasi kerajaan Kediri, sebuah kerajaan Hindu pada abad ke-11. Awal mula Kediri sebagai permukiman perkotaan dimulai ketika Airlangga memindahkan pusat pemerintahan kerajaannya dari Kahuripan ke Dahanapura, menurut Serat Calon Arang. Dahanapura ("Kota Api") selanjutnya lebih dikenal sebagai Daha. Sepeninggal Airlangga, wilayah Medang dibagi menjadi dua: Panjalu di barat dan Janggala di timur. Daha menjadi pusat pemerintahan Kerajaan Panjalu dan Kahuripan menjadi pusat pemerintahan Kerajaan Jenggala. Panjalu oleh penulis-penulis periode belakangan juga disebut sebagai Kerajaan Kadiri/Kediri, dengan wilayah kira-kira Kabupaten Kediri sampai Kabupaten Madiun sekarang. \n\n\
+                Semenjak Kerajaan Tumapel (Singasari) menguat, ibukota Daha diserang dan kota ini menjadi kedudukan raja vazal, yang terus berlanjut hingga Majapahit, Demak, dan Mataram. Kediri jatuh ke tangan VOC sebagai konsekuensi Geger Pecinan. Jawa Timur pada saat itu dikuasai Cakraningrat IV, adipati Madura yang memihak VOC dan menginginkan bebasnya Madura dari Kasunanan Kartasura. Karena Cakraningrat IV keinginannya ditolak oleh VOC, ia memberontak. Pemberontakannya ini dikalahkan VOC, dibantu Pakubuwana II, sunan Kartasura. Sebagai pembayaran, Kediri menjadi bagian yang dikuasai VOC. Kekuasaan Belanda atas Kediri terus berlangsung sampai Perang Kemerdekaan Indonesia. \n\n\
+                Perkembangan Kota Kediri menjadi swapraja dimulai ketika diresmikannya Gemeente Kediri pada tanggal 1 April 1906 berdasarkan Staasblad (Lembaran Negara) no. 148 tertanggal 1 Maret 1906. Gemeente ini menjadi tempat kedudukan Residen Kediri dengan sifat pemerintahan otonom terbatas dan mempunyai Gemeente Raad ("Dewan Kota"/DPRD) sebanyak 13 orang, yang terdiri dari delapan orang golongan Eropa dan yang disamakan (Europeanen), empat orang Pribumi (Inlanders) dan satu orang Bangsa Timur Asing. Sebagai tambahan, berdasarkan Staasblad No. 173 tertanggal 13 Maret 1906 ditetapkan anggaran keuangan sebesar f. 15.240 dalam satu tahun. Baru sejak tanggal 1 Nopember 1928 berdasarkan Stbl No. 498 tanggal 1 Januari 1928, Kota Kediri menjadi "Zelfstanding Gemeenteschap" ("kota swapraja" dengan menjadi otonomi penuh). Kediri pada masa Revolusi Kemerdekaan 1945-1949 menjadi salah satu titik rute gerilya Panglima Besar Jendral Sudirman. Kediri juga mencatat sejarah yang kelam juga ketika era Pemberontakan G30S PKI karena banyak penduduk Kediri yang ikut menjadi korbannya. \n\n\
+        </item>
+        <item> Berawal dari diwisudanya Adipati Lamongan pertama yaitu Tumenggung Surajaya(Rangga Hadi) meskipun pada waktu itu Kasultanan Pajang yang menjadi pusat pemerintahan,tetapi yang bertindak mengangkat/mewisuda Surajaya yang menjadi adipati Lamongan yang pertama bukanlah Sultan Pajang melainkan Kanjeng Sunan Giri IV. Hal itu di sebabkan karena Sunan Giri prihatin terhadap Kasultanan Pajang yang selalu resa dan situasi pemerintahan yang kurang mantap,dan faktor yang lain adalah Kanjeng Sunan Giri merasa resah atas tingkah para pedagang asing dari Eropa yaitu pedagang Portugis yang ingin menguasai Nusantara khususnya pulau Jawa dan perlu diketahui bahwa berdirinya Kabupaten Lamongan yang sepenuhnya berlangsung di jaman Keislaman dan diwisudanya Tumengung Surajaya bertepatan pada tanggal 10 dzulhijah 976 H yang tidak lain adalah hari Idul Adha dan setelah ditelusuri jatuh pada tanggal 26 Mei 1569 M. \n\n\
+                Beliau (RanggaHadi) waktu mudah bernama Hadi,yang berasal dari Dusun Cancing yang terletak di wilayah Sendangrejo kecamatan Ngimbang kabupaten Lamongan.sejak masih mudah beliau sudah nyuwito di Kasunanan Giri dan beliau juga termasuk santri yang dikasihi oleh Kanjeng Sunan Giri karena sifatnya yang baik,terampil,cakap dan cepat menguasai ajaran Agama Islam oleh karena itu akhirnya Sunan Giri menunjuk Hadi untuk melaksanakan perintah menyebarkan Agama Islam dan sekaligus mengatur pemerintahan dan kehidupan Rakyat di kawasan yang terletak disebelah barat Kasunanan Giri yang bernama kenduruan oleh karena itu Sunan Giri memberikan pangkat Rangga kepada Hadi. \n\n\
+                Singkat cerita RanggaHadi dengan segenap pengikutnya naik perahu di kali Lamong dan berhasil sampai di Kenduruan, oleh masyarakat daerah ini Rangga Hadi diberi sebutan Mbah Lamong yang memiliki arti pandai NGEMONG Rakyat karena pandai membina daerah,dan mahir menyiarkan Agama Islam,serta dicintai oleh seluruh Rakyatnya dan dari kata Mbah Lamong inilah daerah itu kini disebut Lamongan. \n\n\
+        </item>
+        <item> Dari Prasasti Mula Manurung yang ditemukan di Kediri pada tahun 1975 dan ber-angka tahun 1177 Saka (1255 Masehi) diperoleh informasi bahwa NARARYYA KIRANA, salah satu dari anak Raja Sminingrat (Wisnu Wardhana) dari Kerajaan Singosari, dikukuhkan sebagai Adipati (raja kecil) di LAMAJANG(Lumajang). Pada tahun 1255 Masehi, tahun yang merujuk pada pengangkatan NARARYYA KIRANA sebagai Adipati di Lumajang inilah yang kemudian dijadikan sebagai sebagai dasar penetapan Hari Jadi Lumajang (HARJALU).\n\n\
+       Dalam Buku Pararaton dan KIDUNG HARSYA WIJAYA disebutkan bahwa para pengikut Raden Wijaya atau Kertarajasa dalam mendirikan Majapahit, semuanya diangkat sebagai Pejabat Tinggi Kerajaan. Di antaranya Arya Wiraraja diangkat Maha Wiradikara dan ditempatkan di Lumajang, dan putranya yaitu Pu Tambi atau Nambi diangkat sebagai Rakyan Mapatih. \n\n\
+       Pengangkatan Nambi sebagai Mapatih inilah yang kemudian memicu terjadinya pemberontakan di Majapahit. Apalagi dengan munculnya Mahapati(Ramapati) seorang yang cerdas, ambisius dan amat licik. Dengan kepandaiannya berbicara, Mahapati berhasil mempengaruhi Raja. Setelah berhasil menyingkirkan Ranggalawe, Kebo Anabrang, Lembu Suro, dan Gajah Biru, target berikutnya adalah Nambi. \n\n\
+       Nambi yang mengetahui akan maksud jahat itu merasa lebih baik menyingkir dari Majapahit. Kebetulan memang ada alasan, yaitu ayahnya(Arya Wiraraja) sedang sakit, maka Nambi minta izin kepada Raja untuk pulang ke Lumajang. Setelah Wiraraja meninggal pada tahun 1317 Masehi, Nambi tidak mau kembali ke Majapahit, bahkan membangun Beteng di Pajarakan. Pada 1316, Pajarakan diserbu pasukan Majapahit. Lumajang diduduki dan Nambi serta keluarganya dibunuh. \n\n\
+         </item>
+        <item> Madiun dapat diartikan dari kata “medi” (hantu) dan “ayun-ayun” (berayunan), maksudnya adalah bahwa ketika Ronggo Jumeno melakukan “Babat tanah Madiun” terjadi banyak hant yang berkeliaran.Penjelasan kedua karena nama keris yang dimiliki oleh Ronggo Jumeno bernama keris Tundhung Medhiun. Pada mulanya bukan dinamakan Madiun, tetapi Wonoasri. Beberapa peninggalan Kadipaten Madiun salah satunya dapat dilihat di Kelurahan Kuncen, dimana terdapat makam Ki Ageng Panembahan Ronggo Jumeno, Patih Wonosari selain makam para Bupati Madiun, Masjid Tertua di Madiun yaitu Masjid Nur Hidayatullah, artefak-artefak disekeliling masjid, serta sendang (tempat pemandian) keramat.\n\n\
+            Kota Madiun dahulu merupakan pusat dari Karesidenan Madiun, yang meliputi wilayah Magetan, Ngawi, Ponorogo, dan Pacitan. Meski berada di wilayah Jawa Timur, secara budaya Madiun lebih dekat ke budaya Jawa Tengahan (Mataraman atau Solo-Yogya), karena Madiun lama berada di bawah kekuasaan Kesultanan Mataram.\n\n\
+            Pada tahun 1948, terjadi pemberontakan yang dilakukan oleh PKI di Madiun yang dipimpin oleh Musso di daerah Dungus, Wungu, Kabupaten Madiun yang sekarang di kenal dengan nama Monumen Kresek.\n\n\
+             </item>
+        <item> Kabupaten Magetan adalah sebuah kabupaten di Provinsi Jawa Timur, Indonesia. Kabupaten ini berbatasan dengan Kabupaten Ngawi di utara, Kota Madiun dan Kabupaten Madiun di timur, Kabupaten Ponorogo, serta Kabupaten Karanganyar dan Kabupaten Wonogiri (keduanya termasuk provinsi Jawa Tengah). Bandara Iswahyudi, salah satu pangkalan utama Angkatan Udara RI di kawasan Indonesia Timur, terletak di kecamatan Maospati. Kabupaten Magetan terdiri atas 19 kecamatan, yang terdiri dari 208 desa dan 27 kelurahan.\n\n\
+        Kabupaten Magetan dilintasi jalan raya utama Surabaya-Madiun-Yogyakarta dan jalur kereta api lintas selatan Pulau Jawa, namun jalur tersebut tidak melintasi ibukota Kabupaten Magetan. Satu-satunya stasiun yang berada di wilayah kabupaten Magetan adalah Stasiun Barat terletak di wilayah Kecamatan Barat.\n\n\
+        Gunung Lawu (3.265 m) terdapat di bagian barat Kabupaten Magetan, yakni perbatasan dengan Jawa Tengah. Di daerah pegunungan ini terdapat Telaga Sarangan(1000 m dpl), salah satu tempat wisata andalan kabupaten ini, yang berada di jalur wisata Magetan-Sarangan-Tawangmangu-Karanganyar.\n\n\
+        Magetan dikenal karena kerajinan kulit (untuk alas kaki dan tas), anyaman bambu, rengginan, dan produksi jeruk pamelo (jeruk bali)serta krupuk lempengnya yang terbuat dari nasi.\n\n\
+         </item>
+        <item> Setelah kerajaan Kanjuruhan, di masa emas kerajaan Singasari (1000 tahun setelah Masehi) di daerah Malang masih ditemukan satu kerajaan yang makmur, banyak penduduknya serta tanah-tanah pertanian yang amat subur.             Ketika Islam menaklukkan Kerajaan Majapahit sekitar tahun 1400, Patih Majapahit melarikan diri ke daerah Malang. Ia kemudian mendirikan sebuah kerajaan Hindu yang merdeka, yang oleh putranya diperjuangkan menjadi satu kerajaan yang maju. Pusat kerajaan yang terletak di kota Malang sampai saat ini masih terlihat sisa-sisa bangunan bentengnya yang kokoh bernama Kutobedah di desa Kutobedah. Adalah Sultan Mataram dari Jawa Tengah yang akhirnya datang menaklukkan daerah ini pada tahun 1614 setelah mendapat perlawanan yang tangguh dari penduduk daerah ini. \n\n\
+            Seperti halnya kebanyakan kota-kota lain di Indonesia pada umumnya, Kota Malang modern tumbuh dan berkembang setelah hadirnya administrasi kolonial Hindia Belanda. Fasilitas umum direncanakan sedemikian rupa agar memenuhi kebutuhan keluarga Belanda. Kesan diskriminatif masih berbekas hingga sekarang, misalnya Ijen Boullevard dan kawasan sekitarnya. Pada mulanya hanya dinikmati oleh keluarga-keluarga Belanda dan Bangsa Eropa lainnya, sementara penduduk pribumi harus puas bertempat tinggal di pinggiran kota dengan fasilitas yang kurang memadai. Kawasan perumahan itu sekarang menjadi monumen hidup dan seringkali dikunjungi oleh keturunan keluarga-keluarga Belanda yang pernah bermukim di sana.\n\n\
+            Pada masa penjajahan kolonial Hindia Belanda, daerah Malang dijadikan wilayah Gemente (Kota). Sebelum tahun 1964, dalam lambang kota Malang terdapat tulisan ; Malang namaku, maju tujuanku terjemahan dari Malang nominor, sursum moveor. Ketika kota ini merayakan hari ulang tahunnya yang ke-50 pada tanggal 1 April 1964, kalimat-kalimat tersebut berubah menjadi : Malangkuçeçwara. Semboyan baru ini diusulkan oleh almarhum Prof. Dr. R. Ng. Poerbatjaraka, karena kata tersebut sangat erat hubungannya dengan asal-usul kota Malang yang pada masa Ken Arok kira-kira 7 abad yang lampau telah menjadi nama dari tempat di sekitar atau dekat candi yang bernama Malangkuçeçwara.\n\n\
+            Kota malang mulai tumbuh dan berkembang setelah hadirnya pemerintah kolonial Belanda, terutama ketika mulai di operasikannya jalur kereta api pada tahun 1879. Berbagai kebutuhan masyarakatpun semakin meningkat terutama akan ruang gerak melakukan berbagai kegiatan. Akibatnya terjadilah perubahan tata guna tanah, daerah yang terbangun bermunculan tanpa terkendali. Perubahan fungsi lahan mengalami perubahan sangat pesat, seperti dari fungsi pertanian menjadi perumahan dan industri. \n\n\
+         </item>
+        <item> Pembentukan Pemerintah Kota Mojokerto melalui suatu proses kesejahteraan yang diawali melalui status sebagai staadsgemente, berdasarkan keputusan Gubernur Jendral Hindia Belanda Nomor 324 Tahun 1918 tanggal 20 Juni 1918. Pada masa Pemerintahan Penduduk Jepang berstatus Sidan diperintah oleh seorang Si Ku Cho dari 8 Mei 1942 sampai dengan 15 Agustus 1945.\n\n\
+        Pada zaman revolusi 1945 - 1950 Pemerintah Kota Mojokerto didalam pelaksanaan Pemerintah menjadi bagian dari Pemerintah Kabupaten Mojokerto dan diperintah oleh seorang Wakil Walikota disamping Komite Nasional Daerah.\n\n\
+        Daerah Otonomi Kota Kecil Mojokerto berdiri berdasarkan Undang-Undang Nomor 17 Tahun 1950, tanggal 14 Agustus 1950 kemudian berubah status sebagai Kota Praja menurut Undang-Undang Nomor 1 Tahun 1957.\n\n\
+        </item>
+        <item> Ngawi berasal dari kata “Awi” yang artinya Bambu yang selanjutnya mendapat tambahan huruf sengau “Ng” menjadi “NGAWI” . Seperti halnya dengan nama-nama di daerah-daerah lain yang banyak sekali nama-nama tempat (desa) yang di kaitkan dengan nama tumbuh-tumbuhan. Seperti Ngawi menunjukkan suatu tempat yang di sekitar pinggir Bengawan Solo dan Bengawan Madiun yang banyak ditumbuhi bambu.\n\n\
+        Penelusuran Hari jadi Ngawi dimulai dari tahun 1975, dengan dikeluarkannya SK Bupati KDH Tk. II Ngawi Nomor Sek. 13/7/Drh, tanggal 27 Oktober 1975 dan nomor Sek 13/3/Drh, tanggal 21 April 1976. Ketua Panitia Penelitian atau penelusuran yang di ketuai oleh DPRD Kabupaten Dati Ii Ngawi. Dalam penelitian banyak ditemui kesulitan-kesulitan terutama nara sumber atau para tokoh-tokoh masayarakat, namun mereka tetap melakukan penelitian lewat sejarah, peninggalalan purbakala dan dokumen-dokumen kuno.\n\n\  </item>
+        <item> Tahun 1671 – 1686, Pasuruan dibawah pemerintahan Bupati Onggo Djojo yang berasal dari keturunan Kyai Brondong, yang kemudian mendapatkan perlawanan dari Untung Suropati, sehingga melarikan diri ke Kota Surabaya. Tahun 1686 – 1706, Pasuruan dibawah pemerintahan Djoko Untung Suropati dengan gelar Adipati Wironegoro. Tahun 1706 akhir kekuasaannya menghadapi perang melawan VOC di Baging dan beliau mengalami luka berat hingga meninggal, sampai saat ini makamnya tidak diketahui tempatnya, namun bias diketahui adanya petilasan berupa gua sebagai tempat persembunyiannya sewaktu dikejar tentara VOC di pedukuhan mancilan Desa Pohjentrek Kecamatan Purworejo Kota Pasuruan.\n\n\
+        Tahun 1706 – 1743, Putera Djoko Untung Suropati yang bernama Rahmat menggantikan kedudukan ayahnya dan meneruskan perjuangannya sampai gugur dalam pertempuran melawan VOC . Tahun 1743, Darmoyudo IV bernama Wongso Negoro Niti Negoro sebagai pengganti Rahmat, sejak itu VOC dapat menguasai pantai utara pulau Jawa termasuk Pasuruan. VOC menganggap Kota Pasuruan sebagai Kota Bandar karena keberadaan pelabuhannya untuk sarana transportasi perdagangan, akhirnya Belanda mengadakan kegiatan perekomonian dengan mendirikan pabrik gula disekitar Pasuruan.\n\n\
+        Bukti lain menyebutkan bahwa sejarah Kota Pasuruan dianggap penting oleh Ahli Belanda dengan dibentuknya Staatgementee Van Pasuruan pada Juli 1916 dan ditetapkannya sebagai Pelabuhan Pasuruan sejak tahun 1926 stbl.1926 Nomor 521 dengan perubahan Stbl 1926 nomor 426. Tanggal 14 Agustus 1950 menjadi daerah Otonom yang terdiri dari 19 Desa dalam 1 Kecamatan. Tanggal 21 Desember 1982 Kotamadya Pasuruan diperluas menjadi 3 Kecamatan dengan 19 Kelurahan dan 15 Desa.\n\n\
+         </item>
+        <item> Menurut Babad Ponorogo (Purwowidjoyo;1997), setelah Raden Katong sampai di wilayah Wengker, lalu memilih tempat yang memenuhi syarat untuk pemukiman ( yaitu di dusun Plampitan Kelurahan Setono Kecamatan Jenangan sekarang). Melalui situasi dan kondisi yang penuh dengan hambatan, tantangan, yang datang silih berganti, Raden Katong, Selo Aji, dan Ki Ageng Mirah beserta pengikutnya terus berupaya mendirikan pemukiman. Sekitar 1482 M eng konsulidasi wilayah mulai di lakukan.\n\n\
+        Tahun 1482 – 1486 M, untuk mencapai tujuan menegakkan perjuangan dengan menyusun kekuatan, sedikit demi sedikit kesulitan tersebut dapat teratasi, pendekatan kekeluargaan dengan Ki Ageng Kutu dan seluruh pendukungnya ketika itu mulai membuahkan hasil.Dengan persiapan dalam rangka merintis mendirikan kadipaten didukung semua pihak, Bathoro Katong (Raden Katong) dapat mendirikan Kadipaten Ponorogo pada akhir abad XV, dan ia menjadi adipati yang pertama.\n\n\
+        </item>
+        <item> Pada zaman pemerintahan Prabu Radjasanagara (Sri Nata Hayam Wuruk), Raja Majapahit yang ke IV (1350-1389), Probolinggo dikenal dengan nama “Banger”, yaitu nama sebuah sungai yang mengalir di tengah daerah. Banger merupakan pedukuhan kecil di bawah pemerintahan Akuwu di Sukodono. Nama Banger sendiri dikenal dari buku Negarakertagama yang ditulis oleh pujangga kerajaan Majapahit yang terkenal yaitu Mpu Prapanca.\n\n\
+        Dalam upaya mendekatkan diri dengan rakyatnya, maka Prabu Hayam Wuruk dengan didampingi Patih Amangku Bumi Gadjah Mada melakukan perjalanan keliling ke daerah-daerah antara lain Lumajang dan Bondowoso. Perjalanan tersebut dimaksudkan agar Sang Prabu dapat melihat sendiri bagaimana kehidupan masyarakat di pedesaan dan sekaligus melihat sejauhmana perintahnya dapat dilaksanakan oleh para pembantunya. Dalam perjalanan inspeksi tersebut Prabu Hayam Wuruk singgah di desa Banger, desa Baremi, dan desa Borang. Desa tersebut sekarang ini menjadi bagian wilayah administrasi Kecamatan Mayangan Kota Probolinggo (Kelurahan Sukabumi, Mangunharjo, Wiroborang).\n\n\
+        Singgahnya Prabu Hayam Wuruk di desa Baremi, Banger dan Borang, disambut masyarakat sekitar dengan penuh sukacita. Pada hari Kamis Pahing (Respati Jenar) tanggal 4 september 1359 Masehi, Prabu Hayam Wuruk memerintahkan kepada rakyat Banger agar memperluas Banger dengan membuka hutan yang ada di sekitarnya yang selanjutnya akan dijadikan sebagai pusat pemerintahan. Perintah itulah yang akhirnya menjadi landasan sejarah hari lahirnya Kota Probolinggo.\n\n\
+        Banger mengalami perkembangan yang sangat pesat seiring dengan perkembangan zaman. Hal ini ternyata menarik perhatian dari Bre Wirabumi (Minakjinggo), Raja Blambangan yang berkuasa. Hingga pada akhirnya Banger dapat dikuasai oleh Bre Wirabumi. Bahkan Banger pernah menjadi kancah perang saudara antara Bre Wirabumi (Blambangan) dengan Prabu Wikramardhana (Majapahit) yang dikenal dengan “Perang Paregreg”.\n\n\
+         </item>
+        <item> Sidoarjo dulu dikenal sebagai pusat Kerajaan Janggala. Pada masa kolonialisme Hindia Belanda, daerah Sidoarjo bernama Sidokare, yang merupakan bagian dari Kabupaten Surabaya. Daerah Sidokare dipimpin oleh seorang patih bernama R. Ng. Djojohardjo, bertempat tinggal di kampung Pucang Anom yang dibantu oleh seorang wedana yaitu Bagus Ranuwiryo yang berdiam di kampung Pangabahan. Pada 1859, berdasarkan Keputusan Pemerintah Hindia Belanda No. 9/1859 tanggal 31 Januari 1859 Staatsblad No. 6, daerah Kabupaten Surabaya dibagi menjadi dua bagian yaitu Kabupaten Surabaya dan Kabupaten Sidokare. Sidokare dipimpin R. Notopuro (kemudian bergelar R.T.P. Tjokronegoro) yang berasal dari Kasepuhan. Ia adalah putra dari R.A.P. Tjokronegoro, Bupati Surabaya.\n\n\
+        Pada tanggal 28 Mei 1859, nama Kabupaten Sidokare yang memiliki konotasi kurang bagus diubah namanya menjadi Kabupaten Sidoarjo. Setelah R. Notopuro wafat tahun 1862, maka kakak almarhum pada tahun 1863 diangkat sebagai bupati, yaitu Bupati R.T.A.A. Tjokronegoro II yang merupakan pindahan dari Lamongan. Pada tahun 1883 Bupati Tjokronegoro pensiun, sebagai gantinya diangkat R.P. Sumodiredjo pindahan dari Tulungagung tetapi hanya 3 bulan saja menjabat sebagai Bupati karena wafat pada tahun itu juga, dan R.A.A.T. Tjondronegoro I diangkat sebagai gantinya. Pada masa Pedudukan Jepang (8 Maret 1942 - 15 Agustus 1945), daerah delta Sungai Brantas termasuk Sidoarjo juga berada di bawah kekuasaan Pemerintahan Militer Jepang (yaitu oleh Kaigun, tentara Laut Jepang). Pada tanggal 15 Agustus 1945, Jepang menyerah pada Sekutu. Permulaan bulan Maret 1946 Belanda mulai aktif dalam usaha-usahanya untuk menduduki kembali daerah ini. Ketika Belanda menduduki Gedangan, pemerintah Indonesia memindahkan pusat pemerintahan Sidoarjo ke Porong.\n\n\
+        Daerah Dungus (Kecamatan Sukodono) menjadi daerah rebutan dengan Belanda. Tanggal 24 Desember 1946, Belanda mulai menyerang kota Sidoarjo dengan serangan dari jurusan Tulangan. Sidoarjo jatuh ke tangan Belanda hari itu juga. Pusat pemerintahan Sidoarjo lalu dipindahkan lagi ke daerah Jombang. Pemerintahan pendudukan Belanda (dikenal dengan nama Recomba) berusaha membentuk kembali pemerintahan seperti pada masa kolonial dulu. Pada November 1948, dibentuklah Negara Jawa Timur salah satu negara bagian dalam Republik Indonesia Serikat. Sidoarjo berada di bawah pemerintahan Recomba hingga tahun 1949. Tanggal 27 Desember 1949, sebagai hasil kesepakatan Konferensi Meja Bundar, Belanda menyerahkan kembali Negara Jawa Timur kepada Republik Indonesia, sehingga daerah delta Brantas dengan sendirinya menjadi daerah Republik Indonesia.\n\n\
+         </item>
+        <item> Konon, Situbondo pada zaman dahulu merupakan suatu situ atau danau besar. Pada zaman kejayaan kerajaan-kerajaan Jawa, Situbondo merupakan bagian dari konflik-konflik perebutan wilayah dan kekuasaan kerajaan Majapahit dengan kerajaan Blambangan, dan di daerah inilah diyakini perang Paregreg sebagai bagian dari kehancuran Majapahit terjadi.\n\n\
+        Penduduk Situbondo berasal dari beragam suku, mayoritas berasal dari suku Jawa dan suku Madura. Pada tahun 1950 sampai 1970-an, kehidupan perekonomian kebanyakan ditunjang oleh industri gula dengan adanya 6 perkebunan dan pabrik gula di sekelilingnya, yaitu di Asembagus, Panji, Olean, Wringin Anom, Demas, dan Prajekan. Dengan surutnya industri gulapada tahun 1980 dan 1990-an, kegiatan perekonomian bergeser ke arah usaha perikanan. Usaha pembibitan dan pembesaran udang menjadi tumpuan masyarakat.\n\n\
+        Masyarakat Jawa Timur banyak mengenal Situbondo dari pantai Pasir Putih, suatu tempat rekreasi pantai yang berjarak kurang lebih 23 km di sebelah barat Situbondo. Pasir Putih terkenal dengan pantainya yang landai dan berpasir putih. pada tahun 1960 hingga 1970-an masih banyak habitat laut yang bisa ditemukan dipantai ini. Kuda laut dan batu karang cantik berwarna warni banyak dijual di akuarium penjual ikan hias setempat, namun kini makhluk tersebut tidak dapat ditemui lagi.\n\n\
+         </item>
+        <item> Saat itu Kadipaten Sumenep berada dibawah kekuasaan kerajaan Singosari,dengan penguasaannya Raja Kertanegara,sehingga sumber prasasti yang berhubungan dengan Raja Kertanegara dijadikan rujukan bagi penetapan hari jadi Kabupaten Sumenep.Sumber prasasti yang dapat dijadikan sebagai bahan rujukan adalah prasasti berikut: Prasasti Mua Manurung Dari Raja Wisnuwardhana yang berangka tahun 1255 M, Prasasti Kranggan ( Senggruh )  Dari Raja Kertanegara yang berangka tahun 1365 M, Prasasti Pakis Wetan Dari Raja Kertanegara yang berangka tahun 1267 M, Prasasti Sarwadharma Dari Raja Kertanegara yang berangka tahun 1269.\n\n\
+        Berangka Tanggal 31 Oktober 1269 M, merupakan sejarah yang signifikan dan jelas menyebutkan bahwa saat itu Raja Kertanegara telah menjadi Raja Singhasari yang berdaulat penuh dan berhak mengangkat seorang Adipati.\n\n\
+        </item>
+        <item> Heroisme masyarakat Surabaya paling tergambar dalam pertempuran 10 Nopember 1945. Arek-arek Suroboyo, sebutan untuk orang Surabaya, dengan berbekal bambu runcing berani melawan pasukan sekutu yang memiliki persenjataan canggih. Puluhan ribu warga meninggal membela tanah air. Peristiwa heroik ini kemudian diabadikan sebagai peringatan Hari Pahlawan. Sehingga membuat Surabaya dilabeli sebagai Kota Pahlawan.\n\n\
+        Versi lain mengatakan bahwa Surabaya berasal dari cerita tentang perkelahian hidup dan mati Adipati Jayengrono dan Sawunggaling. Konon setelah mengalahkan tentara Tar Tar, Raden Wijaya mendirikan sebuah kraton di Ujung Galuh dan menempatkan Adipati Jayengrono untuk memimpin daerah itu. Lama-lama karena menguasai ilmu buaya, Jayengrono makin kuat dan mandiri sehingga mengancam kedaulatan Majapahit. Untuk menaklukkan Jayengrono diutuslah Sawunggaling yang menguasai ilmu Sura.\n\n\
+        Adu kesaktian dilakukan di pinggir Sungai Kalimas dekat Peneleh. Perkelahian itu berlangsung selama tujuh hari tujuh malam dan berakhir dengan tragis, karena keduanya meninggal kehabisan tenaga. Kata "Surabaya" juga sering diartikan secara filosofis sebagai lambang perjuangan antara darat dan air, antara tanah dan air. Selain itu, dari kata Surabaya juga muncul mitos pertempuran antara ikan Suro (Sura) dan Boyo (Baya atau Buaya), yang menimbulkan dugaan bahwa nama Surabaya muncul setelah terjadinya peperangan antara ikan Sura dan Buaya (Baya).\n\n\
+         </item>
+        <item> Nama ‘Tuban’ berasal dari singkatan kata metu banyu (bahasa Jawa), yaitu nama yang diberikan oleh Raden Arya Dandang Wacana (seorang Adipati) pada saat pembukaan hutan Papringan yang secara tidak terduga keluar sumber air. Sumber air ini sangat sejuk dan meskipun terletak di tepi pantai utara pulau Jawa, mata air tadi tidak bergaram, tidak seperti kota pantai lainnya. Dulunya Tuban bernama Kambang Putih. Sudah sejak abad ke-11 sampai abad ke-15 dalam berita-berita para penulis Cina, Tuban disebut sebagai salah satu kota pelabuhan utama Utara Jawa yang kaya dan banyak penduduk Tionghoanya.\n\n\
+        Orang Cina menyebut Tuban dengan nama Duban atau nama lainnya adalah Chumin. Pasukan Cina-Mongolia (tentara Tartar), yang pada tahun 1292 datang menyerang Jawa bagian Timur (kejadian yang menyebabkan berdirinya Kerajaan Majapahit) mendarat di pantai Tuban. Dari sana pulalah sisa-sisa tentaranya kemudian meninggalkan pulau Jawa untuk kembali ke negaranya (Graaf, 1985:164). Tapi sejak abad ke-15 dan 16 kapal-kapal dagang yang berukuran sedang saja sudah terpaksa membuang sauh di laut yang cukup jauh dari garis pantai. Sesudah abad ke-16 itu memang pantai Tuban menjadi dangkal oleh endapan lumpur. Keadaan geografis seperti ini membuat kota Tuban dalam perjalanan sejarah selanjutnya sudah tidak menjadi kota pelabuhan yang penting lagi (Graaf, 1985:163).\n\n\
+        Seperti halnya dengan kota-kota lain di Jawa, pada umumnya sumber sejarah kota Tuban sangat sulit didapat. Bahan tulisan yang ada penuh dengan campuran antara sejarah dan legenda. Buku Serat Babad Tuban yang ditulis oleh Tan Khoen Swie (1936), yang diteliti oleh H.J. de Graaf, disebut sebagai salah satu sumber sejarah Tuban. Buku tersebut lebih memuat tentang masalah pemerintahan serta pergantian penguasa di Tuban, sedang bentuk fisik kotanya hampir tidak disinggung sama sekali.\n\n\
+         </item>
     </string-array>
 
     <string-array name="tab3title">
@@ -205,7 +253,6 @@
         <item>Kebudayaan Jember</item>
         <item>Kebudayaan Jombang</item>
         <item>Kebudayaan Kediri</item>
-        <item>Kebudayaan Kepanjen</item>
         <item>Kebudayaan Lamongan</item>
         <item>Kebudayaan Lumajang</item>
         <item>Kebudayaan Madiun</item>
@@ -220,141 +267,142 @@
         <item>Kebudayaan Situbondo</item>
         <item>Kebudayaan Sumenep</item>
         <item>Kebudayaan Surabaya</item>
+        <item>Kebudayaan Tuban</item>
     </string-array>
 
     <string-array name="tab3des1">
         <item> Pemerintah Kabupaten Bangkalan menyelenggarakan ajang kerapan sapi yang bertajuk “Bangkalan Bull Racing Event “ yang diselenggarakan di lapangan alun-alun Selatan Bangkalan. Dalam kerapan sapi ini diikuti oleh delapan pasang sapi kerap dari seluruh Kabupaten Bangkalan dan dibuka secara resmi oleh ketua BPK Republik Indonesia. Acara kemudian dilanjutkan dengan penampilan tari kolosal. Tari yang bercerita tentang kerapan sapi ini dipersembahkan oleh sanggar tari Tarara Bangkalan kepada para tamu, undangan. </item>
         <item> Kabupaten Banyuwangi selain menjadi perlintasan dari Jawa ke Bali, juga merupakan daerah pertemuan berbagai jenis kebudayaan dari berbagai wilayah. Budaya masyarakat Banyuwangi diwarnai oleh budaya Jawa, Bali, Madura, Melayu, Eropa dan budaya lokal yang saling isi mengisi dan akhirnya menjadi tipikal yang tidak ditemui di wilayah manapun di Pulau Jawa. </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> Grebeg Pancasila adalah suatu upacara hari lahirnya Pancasila pada tanggal 1 Juni yang didesain sebagai peristiwa budaya. Upacara ini berbeda dengan upacara lainnya. Ritus upacara ini berisi tiga mata acara pokok yaitu, upacara budaya, kirap gunungan limo, dan kenduri.  </item>
+        <item> Yang menjadi ciri khas di daerah tersebut dan di lakukan secara turun-temurun oleh masyarakat setempat agar tidak melupakan warisan nenek moyang dengan terus melestarikannya.</item>
+        <item> Bicara mengenai kesenian Kota Bondowoso, mungkin hanya Singo ulung dan Tari Topeng Kona yang cukup dikenal. Padahal sebenarnya kota ini memiliki cukup banyak budaya dan adat menarik selain 2 yang telah disebut tadi.</item>
+        <item> Satu satu tradisi warisan Walisongo yang hingga kini masih dilestarikan. Yaitu tradisi menggelar Pasar Bandeng di pusat kota Gresik. Tradisi ini pertama kali diadakan oleh Sunan Giri untuk mengangkat perekonomian rakyat setempat.Dua dari sembilanWalisongo penyebar agama islam yang berada di Gresik sangat berpengaruh dalam membangun tatanan budaya masyarakat Gresik. Keduanya adalah Syekh Maulana Malik Ibrahim dan Raden Paku atau Sunan Giri.Melalui jalan perdagangan, Ainul Yaqin, nama kecil Sunan Giri melakukan da’wah kepada masyarakat. Kala itu, di abad 15 Sunan Giri mulai membantu perekonomian masyarakat dengan cara mengolah dan memasarkan hasil bumi. Hingga kini, masyarakat masih melestarikan warisan Suna Giri yaitu dengan membuat dan menjuala kue pudak dan penyelenggaraan pasar bandeng </item>
+        <item> Kabupaten Jember adalah kabupaten di Provinsi Jawa Timur, Indonesia yang beribukota di Jember. Kabupaten ini berbatasan dengan Kabupaten Probolinggo dan Kabupaten Bondowoso di utara, Kabupaten Banyuwangi di timur, Samudra Hindia di selatan, dan Kabupaten Lumajang di barat. Kabupaten Jember terdiri atas 31 kecamatan. </item>
+        <item> Dilihat dari letak geografis, Jombang termasuk daerah etnis budaya Jawa Timuran yang mempunyai ragam campuran budaya, yaitu etnis Jawa Timuran atau budaya “arek”, etnis Madura, Panaragan, Mataraman dan etnis jawa Tengahan. Hal ini dapat dilihat oleh banyaknya imigran dari luar daerah yang menetap sebagai penduduk Jombang sejak dahulu, sehingga kebudayaan yang meraka bawa membaur dengan kebudayaan setempat. Sampei saat ini kebudayaan masyarakat Jombang memiliki warna khas yang menunjukkan perbedaan dengan masyarakat berkebudayaan atau etnis Jawa Timur aslinya. Ciri khas kebudayaan masyarakat Jombang tercermin dalam adat-istiadat bahasa dialek dan kesenian mereka. </item>
+        <item> Kesenian Jaranan menyuguhkan berbagai atraksi menarik yang kadang mampu membangkitkan rasa takjub.Atraksi gerak pemain dengan diiringi tabuhan gamelan serta sesekali diselingi unsur magis menjadikan kesenian ini layak ditonton.  </item>
+        <item> Lamongan merupakan salah satu kota yang ada di Jawa Timur. Kota Lamongan juga terkenal banyak budayanya diantaranya yaitu Tari Boran, Tari Mayang Madu, Tari Turonggo Solah, Tari Caping Ngancak, Tari Silir-Silir dan Tari Sinau. Dari berbagai tarian tersebut, tarian yang menjadi khas budaya dan berkembang di kota Lamongan adalah Tari Mayang Madu. Tari Mayang Madu ini menceritakan tentang perjalanan Wali Songo yang menyebarkan agama Islam di Pulau Jawa, khusunya di daerah kota Lamongan yaitu Sunan Drajat. Penyebarannya melalui kesenian, salah satunya dengan musik. Musik yang dipakai adalah Singo Mengkok. Tari mayang Madu berasal dari daerah Lamongan. Tari ini biasa ditampilkan dalam bentuk tari tunggal, tari kelompok, maupun tari massal. </item>
+        <item> adalah kesenian tradisional khas Lumajang. Konon kesenian ini lahir pada masa Arya Wiraraja yang memerintah Kerajaan Lamajang (sekarang berada di Desa Biting, Sukodono, Lumajang) yang wilayahnya meliputi Tapal Kuda dan Madura. </item>
+        <item> Perpaduan antara seni musik dan gerak tari asli dari daerah kabupaten Madiun. Konon rakyat desa Mejayan terkena wabah penyakit, ketika siang sakit sore hari meninggal dunia atau pagi sakit malam hari meninggal dunia, dalam kesedihannya, Raden Prawirodipuro sebagai pemimpin rakyat Mejayan mencoba merenungkan metode atau solusi penyelesaian atas wabah penyakit yang menimpa rakyatnya. Renungan, meditasi dan bertapa di wilayah gunung kidul Caruban. Ia mendapatkan wangsit untuk membuat semacam tarian atau kesenian yang bisa mengusir balak tersebut. </item>
+        <item> Labuh saji atau Larung saji Labuh sesaji merupakan ritual adat BERSIH DESA Masyarakat Sarangan dilaksanakan tiap tahun pada hari jumat PON bulan Ruwah, dengan upacara pelarungan sesaji  berupa tumpeng raksasa kedalam Telaga Sarangan dengan menggunakan kapal boat sebagai wujud syukur kepada Tuhan YME atas pemberian telaga yang mendatangkan kemakmuran bagi masyarakat.  </item>
+        <item> Kekayaan etnis dan budaya yang dimiliki Kota Malang berpengaruh terhadap kesenian tradisional yang ada. Salah satunya yang terkenal adalah Wayang Topeng Malangan (Topeng Malang), namun kini semakin terkikis oleh kesenian modern. Gaya kesenian ini adalah wujud pertemuan tiga budaya (Jawa Tengahan, Madura, dan Tengger). Hal tersebut terjadi karena Malang memiliki tiga sub-kultur, yaitu sub-kultur budaya Jawa Tengahan yang hidup di lereng gunung Kawi, sub-kultur Madura di lereng gunung Arjuna, dan sub-kultur Tengger sisa budaya Majapahit di lereng gunung Bromo-Semeru. Etnik masyarakat Malang terkenal religius, dinamis, suka bekerja keras, lugas dan bangga dengan identitasnya sebagai Arek Malang (AREMA) serta menjunjung tinggi kebersamaan dan setia kepada malang. </item>
+        <item> Tradisi Grebeg Suro Majapahit, adalah tradisi tahunan yang dilaksanakan setiap tanggal 1 Suro kalender Saka. Tradisi ini di pelopori oleh Yayasan Among Tani. Rangkaian kegiatannya antara lain : Ziarah ke makam leluhur dan pahlawan, pentas kesenian dan makanan rakyat, grebeg suro (arak-arakan dengan kostum era kejayaan Majapahit dan ditutup dengan pagelaran wayang kulit semalam suntuk. Tradisi Grebeg Suro secara keseluruhan dimaksudkan sebagai bagian dari ruwat agung (permohonan keselamatan dan kesejahteraan) bagi bumi nusantara </item>
+        <item> Tari Pentul Melikan, Tarian ini ditarikan dengan memakai topeng kayu yang melambangkan watak manusia yang berbeda-beda namun tetap bersatu dalam kerja. Topeng ini dipengaruhi Jaman Kerajaan Kediri dan masa kini. Iringan gamelan sedikit mendapat pengaruh Reog Ponorogo.Tari ini digarap atau diciptakan pada tahun 1952 oleh Bapak Munajah di Desa Melikan Kelurahan </item>
+        <item> Tari Merak Abyor ini merupakan tari-tarian khas Pasuruan dan pernah ditampilkan pada acara PON tahun 2000 di Sidoarjo, juga pernah meraih sepuluh penyaji terbaik Festival Karya tari Merak pada Gelar Seni Budaya dan Pariwisata Jawa Timur tahun 1998/1999. Tari merak abyor ini merupakan kreasi Sanggar Tari Dharma Budaya Pasuruan. </item>
+        <item> Menurut cerita, kelahiran kesenian Reog dimulai pada tahun Saka 900, dilatarbelakangi kisah tentang perjalanan Prabu Kelana Sewandana, Raja Kerajaan Bantarangin yang sedang mencari calon permaisurinya. Bersama prajurit berkuda, dan patihnya yang setia, Bujangganong. </item>
+        <item> Tradisi Sya’banan. Tradisi ini berasal dari masyarakat yang bertujuan untuk menyambut hadirnya bulan puasa. Biasanya pada tanggal 15 bulan Sya’ban (15 hari sebelum bulan puasa tiba) masyarakat hadir dengan membawa makanan dan bersuka cita sambil duduk-duduk di tepian pantai menikmati panorama laut yang tertimpa sinar bulan purnama. Tradisi seperti ini sudah dilakukan oleh masyarakat setiap tahun. Sehubungan dengan tradisi itu diadakan lomba balap perahu (Petik Laut). </item>
+        <item> Jenis wayang kulit yang ada di Sidoarjo sebagian besar adalah wayang kulit gaya Jawa Timuran (gaya Wetanan) dan sebagian kecil gaya Kulonan. Hampir semua kecamatan memiliki dalang wayang kulit Wetanan ini, diantaranya: Tarik, Balungbendo, Krian, Prambon, Porong, Tulangan, Sukodono, Candi, Sidoarjo, Gedangan dan Waru. </item>
+        <item> Inti kegiatan petik laut adalah saat pelarungan sesaji ke tengah laut, sesaji itu disatukan dalam sebuah perahu kecil. Isinya macam-macam, namun yang paling menonjol adalah kepala sapi. Sebelum dilarung, sesaji itu telah melalui serangkaian ritual. Perahu sesaji diturunkan kelaut beramai-ramai kemudian dilarung ketengah dan ditenggelamkan. Sekretaris Panitia Petik Laut menambahkan “petik laut untuk melestarikan budaya bangsa”. Sumber dananya berasal dari swadaya murni masyarakat nelayan. Mulai sumbangan dari pemilik perahu, kapal selerek, porsen, gandrung, dan kapal jurung. “Ditambah partisipasi dari pengusaha, masyarakat umum kilensari, instansi terkait, serta semua nelayan kilensari,” ungkapnya. Membuang sesaji ketengah laut diyakini warga nelayan khususnya warga kilensari akan membawa keselamatan bagi Nelayan. </item>
+        <item> Karapan sapi merupakan istilah untuk menyebut perlombaan pacuan sapi yang berasal dari Pulau Madura, Jawa Timur. Pada perlombaan ini, sepasang sapi yang menarik semacam kereta dari kayu (tempat joki berdiri dan mengendalikan pasangan sapi tersebut) dipacu dalam lomba adu cepat melawan pasangan-pasangan sapi lain. Trek pacuan tersebut biasanya sekitar 100 meter dan lomba pacuan dapat berlangsung sekitar sepuluh detik sampai satu menit. Beberapa kota di Madura menyelenggarakan karapan sapi pada bulan Agustus dan September setiap tahun, dengan pertandingan final pada akhir September atau Oktober di eks Kota Karesidenan, Pamekasan untuk memperebutkan Piala Bergilir Presiden. </item>
+        <item> Surabaya merupakan kota multi etnis yang kaya akan budaya. Beragam etnis bermigrasi ke Surabaya. Sebut saja etnis Melayu, China, India, Arab dan Eropa sementara etnis Nusantara sendiri antara Lain Madura, Sunda, Batak, Kalimantan, Bali, Sulawesi datang dan menetap, hidup bersama serta membaur dengan penduduk asli membentuk pluralisme budaya yang kemudian menjadi ciri khas kota Surabaya. </item>
+        <item> Kegiatan Haul Sonan Bonang, dilaksanakan setiap hari kamis Pon Malam Jum`at Wage bulan Muharram atau Sura. Berbagai kegiatan islami digelar dalam rangka memperingati wafatnya Aulia Sunan Bonang atau lebih dikenal dengan Haul Sunan Bonang. Kegiatan tersebut diantaranya : Pagelaran Kesenian Hadrah se-Jawa Timur, Khitanan Massal, Khotamul Qur`an Bil Ghoib Wan Bin Nadhor, dan puncak acara adalah pengajian Akbar di depan masjid Agung Tuban. </item>
     </string-array>
 
     <array name="tab3foto1">
         <item>@drawable/tab3foto1bangkalan</item>
         <item>@drawable/tab3foto1banyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab3foto1blitar</item>
+        <item>@drawable/tab3foto1bojonegoro</item>
+        <item>@drawable/tab3foto1bondowoso</item>
+        <item>@drawable/tab3gresik2</item>
+        <item>@drawable/tab3foto1jember</item>
+        <item>@drawable/tab3budayajombang</item>
+        <item>@drawable/tab3foto1kediri</item>
+        <item>@drawable/tab3lamongan</item>
+        <item>@drawable/tab3lumajang1</item>
+        <item>@drawable/tab3foto1madiun</item>
+        <item>@drawable/tab3magetan1</item>
+        <item>@drawable/tab3malang1</item>
+        <item>@drawable/tab3mojokerto1</item>
+        <item>@drawable/tab3ngawi1</item>
+        <item>@drawable/tab3foto1pasuruan</item>
+        <item>@drawable/tab3ponorogo1</item>
+        <item>@drawable/tab3probolinggo1</item>
+        <item>@drawable/tab3foto1sidoarjo</item>
+        <item>@drawable/tab3situbondo</item>
+        <item>@drawable/tab3foto1sumenep</item>
+        <item>@drawable/tab3foto1surabaya</item>
+        <item>@drawable/tab3tuban1</item>
     </array>
 
     <string-array name="tab3des2">
         <item> Setelah itu dilanjutkan dengan parade sapi kerap yang diawali oleh penampilan grup Saronen, Ketua BPK RI dan bupati Bangkalan menyalami satu persatu peserta kirap sapi peserta.Ketika acara pembukaan dan penyambutan, giliran sapi kerap yang ambil bagian dalam kegiatan  </item>
         <item> Kesenian tradisional khas Banyuwangi antara lain : Gandrung Banyuwangi, Seblang, Janger, Rengganis, Hadrah Kunthulan, Patrol, Mocopatan Pacul Goang, Jaranan Butho, Barong, Kebo-Keboan, Angklung Caruk, Gedhogan, Batik </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> Upacara ini selalu diadakan sekali dalam setahun di kabupaten Blitar. Hal ini ditujukan untuk mengenang proses pembuatan Pancasila yang menjadi landasan hukum Indonesia.  </item>
+        <item> Seiring berjalannya waktu, sehingga menuju zaman yang serba modern ini kita kadang-kadang lupa bahkan tidak tahu apa budaya yang ada di daerah kita sendiri. </item>
+        <item> Kesenian tradisional khas Bondowoso antara lain : Ronteg Singo Ulung, barongsai ala kota tape ; Aksi tari Topeng Kona yang selalu memukau; Pengorbanan pemain Ojung untuk setetes air hujan; Kesenian Macapat Bondowoso; Kentrong Bondowoso musik etnik yang merdu; Wayang Kattok, wayang potehi ala Bondowoso. </item>
+        <item> Malam Selawe menjadi sebuah tradisi khas bulan ramadhan di kota Gresik, selain menandakan perburuan lailatul qadar. Malam selawe biasanyahari ke-24 ramadhan yang diadakan di makam Sunan Giri.  </item>
+        <item> Kota Jember dahulu merupakan kota administratif, namun sejak tahun 2001 istilah kota administratif dihapus, sehingga Kota Administratif Jember kembali menjadi bagian dari Kabupaten Jember. Jember merupakan pusat regional di kawasan timur tapal kuda. Hari jadi Kabupaten Jember diperingati setiap tanggal 1 Januari. </item>
+        <item> Adat-istiadat orang Jombang begitu nampak dalam kehidupan masyarakat luar kota, karena masyarakat kota merupakan masyarakat yang sangat sulit untuk dipilah-pilahkan karena percampuran lingkungan heterogen dan pribumi sudah berbaur seiring dengan berkembangnya pola kehidupan jamannya. Namun jika kita memandang lingkungan di daerah luar perkotaan, dapat kita ketahui bahwa masyarakat Jombang merupakan manivestasi budaya masyarakat multi kultural. </item>
+        <item> Di Kabupaten Kediri terdapat beberapa kesenian Jaranan yang dapat dinikmati diantaranya Jaranan Senterewe, Jaranan Pegon, Jaranan Dor, dan Jaranan Jowo. Jaranan Jowo merupakan salah satu kesenian Jaranan yang mengandung unsur magis dalam tariannya. Dimana pada puncaknya penari akan mengalami TRANCE (kesurupan) dan melakukan aksi berbahaya yang terkadang di luar akal manusia. </item>
+        <item> Tari Caping Ngancak adalah salah satu tarian tradisional Kabupaten Lamongan. Tarian ini menggambarkan tentang petani yang beraktifitas di sawah mereka, dari mulai menanam padi sampai mereka mendapatkan panen. Layaknya petani, para penari juga mengenakan Caping atau topi khusus yang biasa dikenakan petani saat pergi ke sawah. </item>
+        <item> Tari Glipang Lumajang, Ketipung Lanang, Ketipung Wedok, Iringi Tari Glipang Kesenian Glipang menjadi tradisi turun temurun. Konon, tarian ada sejak masa penjajahan Belanda di Indonesia. </item>
+        <item> Pencak silat merupakan suatu teknik aliran bela diri dengan memadukan unsur seni didalamnya yang diolah sedemikian rupa hingga tercipta gerakan beladiri yang indah. Banyak sekali pencak silat yang ada di indonesia yang berasal dari berbagai daerah denga ciri khas masing masing.  </item>
+        <item> Upacara "Ledhug Suro" Ledhug Suro atau Lesung Suro Bedhug Muharram adalah kegiatan yang diselenggarakan setiap tahun di Kabupaten Magetan dalam rangka menyambut Tahun Baru Jawa (Saka) atau Bulan Suro yang berhimpitan dengan tahun baru Islam (Hijriah) atau Bulan Muharram. </item>
+        <item> Di kota Malang juga terdapat tempat yang merupakan sarana apresiasi budaya Jawa Timur yaitu Taman Krida Budaya Jawa Timur, di tempat ini sering ditampilkan aneka budaya khas Jawa Timur seperti Ludruk, Ketoprak, Wayang Orang, Wayang Kulit, Reog, Kuda Lumping, Sendra tari, saat ini bertambah kesenian baru yang kian berkembang pesat di kota Malang yaitu kesenian "Bantengan" kesenian ini merupakan hasil dari kreatifitas masyarakat asli malang, sejak dahulu sebenarnya kesenian ini sudah dikenal oleh masyarakat malang namun baru sekaranglah "Bantengan" lebih dikenal oleh masyarakat tidak hanya masyarakat lokal namun juga luar daerah bahkan mancanegara. Khusus di Malang sering diadakan pergelaran bantengan hampir setiap perayaan hari besar baik keagamaan maupun peringatan hari kemerdekaan. </item>
+        <item> Upacara Adat Temu Manten Mayang Kubro, Upacara adat ini diangkat dari perpaduan antara nilai tradisi Jawa atau Mojopahit dengan nilai Islami. Kata Mayang diambil dari kebesaran nama Raden Wijaya pada saat penobatan menjadi raja Mojopahit menggunakan mahkota dengan nama mayang mekar.  </item>
+        <item> Tari Orek-Orek, Ngawi sejak tahun 1980 an terkenal sebagai Bumi Orek Orek.  Sebutan ini tidak lepas dari adanya Tari Orek Orek yang tumbuh subur dan berkembang dimasyarakat luas. Hampir disetiap acara baik yang diselenggarakan oleh Pemerintah Daerah maupun masyarakat sendiri, tari ini selalu dipentaskan. </item>
+        <item> Sanggar Seni Dharma Budaya Kota Pasuruan merupakan suatu komunitas kesenian daerah khususnya seni tari yang masih berkembang sampai saat ini di dilingkungan masyarakat kotaPasuruan yang dikenal sebagai masyarakat yang Islami (masyarakat santri). </item>
+        <item> Akhirnya gadis pujaan hatinya telah ditemukan, Dewi Sanggalangit, putri Kediri. Namun sang putri menetapkan syarat agar sang prabu menciptakan sebuah kesenian baru terlebih dahulu sebelum dia menerima cinta sang raja. Maka dari situlah terciptalah kesenian Reog. Bentuk Reog pun sebenarnya merupakan sebuah sindiran yang maknanya bahwa sang raja (kepala harimau) sudah disetir atau sangat dipengaruhi oleh permaisurinya (burung merak). </item>
+        <item> Setiap tahunnya para nelayan yang tergabung di dalam Paguyuban Nelayan selalu mengadakan kegiatan ritual yang telah ditetapkan menjadi event tahunan oleh Pemerintah Kota Probolinggo yaitu kegiatan Petik Laut ini. Kegiatan ini melambangkan ungkapan rasa syukur kepada Tuhan YME atas rahmat dan karunia-Nya kepada seluruh umat. Selain itu kegiatan ini bertujuan untuk tetap melestarikan budaya gotong-royong dan kebersamaan yang telah diwariskan secara turun-temurun dari para leluhur sehingga menjadi tradisi di daerah sepanjang pesisiran pantai kota Probolinggo .</item>
+        <item> Dari segi musik, instrumennya menggunakan gamelan slendro, mirip yang digunakan dalam ludruk. Berbeda dengan gaya Kulonan yang menggunakan gamelan slendro dan sekaligus pelog. Namun kemudian wayang gaya Wetanan juga menggunakan gamelan pelog, terutama untuk mengiringi adegan-adegan tertentu. </item>
+        <item> Tradisi Ojung merupakan tradisi saling pukul badan dengan menggunakan senjata rotan yang dimainkan oleh dua orang. Kedua peserta Ojung saling bergantian memukul tubuh lawannya. Jika peserta satu memukul, maka lawannya akan berusaha menangkis dan menghindar. “Tradisi ini merupakan suatu keharusan yang harus dilaksanakan oleh kepala desa yang bertujuan untuk menghindari bencana alam, dihindari cari carok, sebab kalau Ojung tidak diadakan setiap tahunnya selalu terjadi carok” kata sesepuh adat. </item>
+        <item> Ojhung adalah sebuah pertunjukan tradisional masyarakat Madura,khususnya Sumenep. Tradisi ojhung ini selalu dilakukan setiap musim kemarau panjang tiba. tujuannya tak lain untuk mendatangkan hujan. Peralatan yang digunakan dalam permainan yang sekaligus berfungsi sebagai senjata adalah tongkat rotan yang berfungsi sebagai alat pukul. Alat tersebut oleh masyarakat setempat disebut lapalo atau kol-pokol. </item>
+        <item> Undukan Doro: atau bisa disebut Adu Merpati, adalah salah satu tradisi warisan leluhur yang masih berkembang di Surabaya. Adu merpati (undukan doro) adalah mengadu kecepatan terbang 2 ekor merpati dalam mencapai garis finish yang telah disiapkan oleh si penyelenggara adu ayam. Dengan jarak 1000 - 1300 meter dari garis start, merpati yang berhasil sampai di garis finish duluan akan dinyatakan sebagai pemenang. </item>
+        <item> Pagelaran Wayang Krucil, Wayang Krucil yang semakin langka pementasannya dapat di nikmati di Balai Kelurahan Baturetno Kecamatan Tuban dalam rangka Sedekah Bumi Mbah Buyut Khadut setiap hari Kamis Pahing Bulan Ruwah. </item>
     </string-array>
 
     <array name="tab3foto2">
         <item>@drawable/tab3foto2bangkalan</item>
         <item>@drawable/tab3foto2banyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab3foto2blitar</item>
+        <item>@drawable/tab3foto2bojonegoro</item>
+        <item>@drawable/tab3foto2bondowoso</item>
+        <item>@drawable/tab3gresik1</item>
+        <item>@drawable/tab3foto2jember</item>
+        <item>@drawable/tab3budayajombang2</item>
+        <item>@drawable/tab3foto2kediri</item>
+        <item>@drawable/tab3lamongan2</item>
+        <item>@drawable/tab3lumajang2</item>
+        <item>@drawable/tab3foto2madiun</item>
+        <item>@drawable/tab3magetan2</item>
+        <item>@drawable/tab3malang2</item>
+        <item>@drawable/tab3mojokerto2</item>
+        <item>@drawable/tab3ngawi2</item>
+        <item>@drawable/tab3foto2pasuruan</item>
+        <item>@drawable/tab3ponorogo2</item>
+        <item>@drawable/tab3probolinggo2</item>
+        <item>@drawable/tab3foto2sidoarjo</item>
+        <item>@drawable/tab3situbondomusik</item>
+        <item>@drawable/tab3foto2sumenep</item>
+        <item>@drawable/tab3foto2surabaya</item>
+        <item>@drawable/tab3tuban2</item>
     </array>
 
     <string-array name="tab3des3">
         <item> Piala beserta hadiah diberikan kepada pemenang oleh ketua BPK RI dan bupati Bangkalan yang menandai berakhirnya Bangkalan Bull Race Event ke-6 Tahun 2011. Tapi acara tetap dilanjutkan dengan mengunjungi stan yang menjual  produk-produk kabupaten Bangkalan dari jajanan khas Bangkalan hingga batik Tanjung Bumi. Kerapan sapi merupakan kekayaan budaya Madura warisan nenek moyang yang harus dilestarikan. </item>
         <item> Selain tari-tarian, banyuwangi juga memiliki alat music khas, yaitu Gamelan Banyuwangi, Gamelan tersebut khususnya yang dipakai dalam tari Gandrung memiliki kekhasan dengan adanya kedua biola, yang salah satunya dijadikan sebagai pantus atau pemimpin lagu. </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> Upacara ini juga diikuti oleh semua masyarakat Blitar dan sering dihadiri oleh pejabat-pejabat Indonesia. Acara ini selalu ramai, disaat kirap gunungan limo, masyarakat sangat antusias dengan perebutan gunungan. Mereka percaya jika mendapatkan bagian dari gunungan tersebut, rejeki usia dan jodoh akan baik. </item>
+        <item> Adapun adat kebudayaan yang ada di Bojonegoro adalah budaya masyarakat samin, wayang thengul, tari thengul. </item>
+        <item> Untuk dapat menikmati kesenian yang hampir punah oleh zaman ini kamu dapat mengunjungi kediaman akek Ramidi di jalan Diponogoro, gang Malabar, Kota kulon. Di sana masih ada penerus kesenian ini. </item>
+        <item> Tradisi malam selawe atau menjelang hari ke 25 ramadhan bisa dibilang malam puncak ramdhan banyak peziarah yang datang ke Makam Sunan Giri , mulai dari anak kecil, remaja, sampai orang yang tua dan lanjut usia. Mereka tak hanya dtang dari daerah Gresik dan sekitarnya tapi dari peziarah luar daerah, bahkan luar pulau. </item>
+        <item> Jember memliki budaya yang beragam. Di Jember memiliki kesenian musik patrol dan berbagai macam taria seperi tarian labako. Jember juga memiliki fashion icon kota Jember yang sudah terkenal di seluruh dunia dan diadakan setiap tahunnya di kota Jember untuk memeriahkan event BBJ (Bulan Berkunjung ke Jember) </item>
+        <item> Menurut Ki Sareh, bahwa masyarakat Jombang merupakan wadah dan isi kebudayaan. Maksud kata wadah di sini adalah suatu tempat yang dijadikan penampungan dari berbagai etnis yang datang dan membaur satu dengan yang lainnya. Sedangkan isi adalah para tokoh serta pelaku seni budaya yang sadar akan pelestarian dan perkembangan seni budaya daerah. Sehingga keragaman budaya tersebut sebagai latar belakang seni budaya daerah yang majemuk menjadi kepribadian budaya masyarakat Jombang yang disebut “Gaya Jombangan” (Sareh, wawancara 2004). Di sisi yang lain ada pendapat Drs. Nasrul llah sebagai salah satu budayawan Jombang yang perlu digaris bawahi, karena relitanya Kabupaten Jombang mempunyai beberapa macam bentuk kesenian rakyat, seperti: Besutan, Ludruk, Jaran Kepang Dor, Hadrah, Kentrung, Sandur, Wayang Krucil, Wayang Topeng, Wayang Kulit dan sebagainya; di mana semua itu mencerminkan kearifan lokal masyarakat Jombang yang memiliki ragam berbeda dengan etnis Jawa Timuran yang lainnya  </item>
+        <item> Selain jaranan, Kediri juga punya kesenian khas yang lain. Bahkan, tari yang dicuplik dari kisah asmara Panji Asmarabangun dan Dewi Kilisuci tersebut juga sudah mendunia. Tapi sekarang tari ini terancam punah. Bagi komunitas seniman Kediri, nama Guntur sudah tidak asing lagi. Dedikasinya terhadap dunia seni bahkan sudah membawanya hingga ke berbagai negara di dunia. Memperkenalkan tari nasional ke seluruh dunia. Salah satunya adalah mempertontonkan tari Kethek Ogleng. Menurut Guntur, tari Kethek Ogleng sudah ada sejak puluhan tahun yang lalu.  </item>
+        <item> Tari tradisional Boranan adalah tari yang terinspirasi oleh aktivitas penjual nasi Boranan yang ada di Lamongan dan sudah siap dengan dagangannya dari pagi sampai subuh. Gerakan tari Boranan cukup sederhana namun bermakna, dengan sentuhan tradisional. Setiap gerakan menunjukkan aktivitas penjual Boranan, dari menyiapkan makana sampai menyerahkannya kepada pelanggan. Penari Boranan selalu datang dari Lamongan, dengan memakai kain batik tradisional Lamongan, dengan warna khas biru dan hitam dan terdapat garis-garis merah pada pinggang. </item>
+        <item> Meskipun dibawah tekanan dan penjajahan, masyarakat masih bisa menghibur diri dengan permainan alat musik sederhana untuk mengiringi gerak gertk penarinya. Biasanya, tarian Glipang yang diyakini berasal dari Lumajang ini, biasanya dimainkan 5 penari laki laki. Mereka melakukan gerakan perpaduan pencak silat dan gerak sholawat yang biasanya diiringi dengan Jidor (alat musik yang digunakan di mushola). </item>
+        <item> Dari sekian banyak pencak silat yang di indonesia yang berasal dari daerah-daerah di seluruh dunia Pusat perguruan seni bela diri yang berdomisili di Madiun, Jawa Timur yang saya ketahuiyaitu Persaudaraan Setia Hati Terate ( PSHT ), Persaudaraan Setia Hati Winongo ( SH Winongo ), dan Ikatan Kera Sakti putra Indonesia ( IKS PI ). </item>
+        <item> Kegiatan Ledhug Suro ini dilaksanakan selama satu minggu sebelum tahun Baru Jawa dan Tahun Baru Islam, dengan diisi dengan berbagai kegiatan seperti lomba lesung Bedhug yang diikuti oleh tiap-tiap Kecamatan dan Dinas / instansi serta kegiatan lain seperti pasar Suro, dan berbagai hiburan rakyat seperti tari tradisional jalak lawu, Drumband,Wayang kulit,Reog,Dll.  </item>
+        <item> Festival tahunan yang menjadi event ikon kota juga sering diadakan setiap tahunnya. Beberapa festival kota tahunan diantaranya adalah: Festival Malang Kembali: Diadakan untuk memperingati HUT Kota Malang, biasa digelar pada tanggal 21 Mei. Festival ini mengusung situasi kota pada masa lalu, mengubah jalan-jalan protokol kota menjadi museum hidup selama kurang lebih 1 minggu festival ini diadakan. </item>
+        <item> Kubro bermakna agung, biasa dikaitkan dengan kegiatan ritual yang bernuansa Islam. Upacara adat Mayang Kubro di Kabupaten Mojokerto ini telah berhasil menjadi penyaji terbaik pada festival upacara adat se Jatim di Surabaya. </item>
+        <item> Keduk Bedji, Upacara Keduk Bedji merupakan salah satu cara untuk melestarikan adat budaya penduduk Desa Tawun sejak jaman dulu. Tujuan utamanya adalah mengeduk atau membersihkan Sumber Beji dari kotoran. Karena di sumber inilah letak kehidupan penduduk Tawun. </item>
+        <item> Tabuh lesung merupakan suatu bentuk kesenian yang unik dan menarik. Merupakan tradisi masyarakat pedesaan yang selalu dimainkan pada saat para petani panen padi. Dengan menggunakan lesung  </item>
+        <item> Kesenian Jaranan thik menggambarkan tentang perjalanan hidup manusia yang diwarnai dengan cobaan, ataupun kemampuan dalam melawan hawa nafsu. Balk yang berasal dan luar maupun dalam din manusia itu sendiri. </item>
+        <item> Perahu Hias, Lomba Perahu Hias merupakan tradisi masyarakat pesisiran pantai kota Probolinggo yang secara beriringan untuk berlomba menghias kapal atau perahu dengan bermacam-macam hiasan yang menarik. Lomba ini selalu mampu menarik minat para wisatawan baik wisatawan domestik maupun mancanegara. Kegiatan ini telah menjadi event tahunan dan diselenggarakan bertepatan dengan hari jadi Kota Probolinggo pada tanggal 4 September. </item>
+        <item> Jaran Kepang, Kelompok seni tradisi jaranan hampir punah di Kabupaten Sidoarjo, tak sampai hitungan jari sebelah tangan. Sebelum 1980-an, cukup banyak grup jaranan yang menggelar atraksi hiburan di kampung-kampung. Kelompok-kelompok seni Jaranan atau Jaran Kepang yang selama ini ada di Sidoarjo bisa dikatakan bukan asli atau berdomisili di Sidoarjo. Mereka berasal dari luar kota, seperti Tulungagung, yang sengaja ngamen di Sidoarjo dalam waktu beberapa lama. Diperkirakan ada sekitar 10 grup. Namun ada satu grup Jaran Kepang versi Sidoarjo, yang agak berbeda dengan Jaran Kepang pada umumnya. Yakni, ketika dalam masa trance, pemainnya memanjat pohon kelapa dengan kepala menghadap ke bawah. Grup ini hanya ada di desa Segorobancang, kec. Tarik. </item>
+        <item> Musik tongtong yang terdapat di Kabupaten Situbondo, Jawa Timur sebenarnya tidak terlepas dari kesamaan budaya antara masyarakat Situbondo dengan masyarakat asli pulau Madura. Dimana pada abad ke-18 kemerosotan kondisi sosial dan ekonomi di Madura memicu emigrasi besar-besaran. Salah satu tempat tujuan emigrasi adalah daerah pesisir utara ujung timur Pulau Jawa seperti Situbondo, Probolinggo, Bondowoso dan Jember. Musik tradisional seperti tongtong merupakan aspek kebudayaan yang tidak lepas dari masyarakat pendukungnya. Musik apapun tidak akan dapat tumbuh dan berkembang tanpa adanya dukungan yang baik dari masyarakat pendukungnya. Karena tidak mungkin suatu bentuk kesenian itu ada ditengah-tengah kehidupan masyarakat tertentu tanpa memiliki fungsi dan peranan yang berarti bagi masyarakat tersebut. </item>
+        <item> Selain itu, pemain menggunakan pelindung kepala (bhungkus atau bhuko) dan pembalut lengan kiri (bulen atau tangkes) . Permainan diatur oleh seorang wasit yang oleh masyarakat setempat disebut bhubhuto. Dalam pelaksanaannya, pertunjukan tersebut diiringi oleh orkes okol yang peralatan musiknya terdiri atas ghambang dan dhuk-dhuk. </item>
+        <item> Musik Patrol: kesenian musik tradisional yang menggunakan alat musik sederhana yaitu kentongan. Kentongan yang digunakan bermacam - macam dengan berbagai ukuran dan dibunyikan secara teratur sehingga menghasilkan suara yang indah dan enak untuk didengar. </item>
+        <item> Sedekah Laut, Masyarakat Kelurahan Karangsari Kota Tuban mensyukuri hasil tangkapan ikan selama setahun dengan menggelar ritual Sedekah laut pada bulan September, dalam ritual ini tersaji pula berbagai atraksi budaya masyarakat pesisir, antara lain : Larung Sesaji, dan Olah raga Gelut Pathol. </item>
     </string-array>
 
     <string-array name="tab4title">
@@ -367,7 +415,6 @@
         <item>Pariwisata Jember</item>
         <item>Pariwisata Jombang</item>
         <item>Pariwisata Kediri</item>
-        <item>Pariwisata Kepanjen</item>
         <item>Pariwisata Lamongan</item>
         <item>Pariwisata Lumajang</item>
         <item>Pariwisata Madiun</item>
@@ -382,222 +429,223 @@
         <item>Pariwisata Situbondo</item>
         <item>Pariwisata Sumenep</item>
         <item>Pariwisata Surabaya</item>
+        <item>Pariwisata Tuban</item>
     </string-array>
 
     <array name="tab4foto">
         <item>@drawable/tab4fotobangkalan</item>
         <item>@drawable/tab4fotobanyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab4fotoblitar</item>
+        <item>@drawable/tab4fotobojonegoro</item>
+        <item>@drawable/tab4fotobondowoso</item>
+        <item>@drawable/tab4gresik</item>
+        <item>@drawable/tab4otojember</item>
+        <item>@drawable/tab4jombang4</item>
+        <item>@drawable/tab4fotokediri</item>
+        <item>@drawable/tab4lamongann</item>
+        <item>@drawable/tab4lumajang4</item>
+        <item>@drawable/tab4fotomadiun</item>
+        <item>@drawable/tab4magetan</item>
+        <item>@drawable/tab4malang</item>
+        <item>@drawable/tab4mojokerto</item>
+        <item>@drawable/tab4ngawi</item>
+        <item>@drawable/tab4fotopasuruan</item>
+        <item>@drawable/tab4ponorogo</item>
+        <item>@drawable/tab4probolinggo</item>
+        <item>@drawable/tab4fotosidoarjo</item>
+        <item>@drawable/tab4situbondo</item>
+        <item>@drawable/tab4fotosumenep</item>
+        <item>@drawable/tab4fotosurabaya</item>
+        <item>@drawable/tab4tuban</item>
     </array>
 
     <string-array name="tab4des">
         <item> Bangkalan adalah salah satu kabupaten yang ada di Jawa Timur yang terdapat di pulau Madura yang dikelilingi oleh peraira yang indah dan tentunya memiliki banyak tempat wisata. Berikut 3 Tempat wisata yang harus anda kunjungi ketika berkunjung ke bangkalan : </item>
         <item> Banyuwangi adalah salah satu kabupaten yang ada di Jawa Timur dan terletak di paling ujung timur Pulau Jawa. Banyuwangi menjadi kota transit para wisatawan yang ingin pergi ke Bali menggunakan jalur darat dan menyeberang di pelabuhan Ketapang. Jadi bagi Anda yang ingin berlibur ke Bali, bisa singgah untuk menikmati beberapa objek wisata di Banyuwangi, mulai dari wisata alam hingga wisata kuliner. Berikut 3 Tempat wisata yang harus anda kunjungi ketika berkunjung ke banyuwangi : </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> Blitar merupakan sebuah daerah yang terletak di bagian selatan Provinsi Jawa Timur, Indonesia. Daerah ini terletak sekitar 167 km sebelah barat daya Surabaya dan 80 km sebelah barat Malang. Blitar terkenal sebagai tempat dimakamkannya presiden pertama Republik Indonesia, Soekarno. Selain disebut sebagai Kota Proklamator dan Kota Patria, Blitar juga disebut sebagai Kota Peta (Pembela Tanah Air) karena di bawah kepimpinanan Soeprijadi, Laskar Peta melakukan perlawanan terhadap Jepang untuk pertama kalinya pada tanggal 14 Februari 1945 yang menginspirasi timbulnya perlawanan menuju kemerdekaan di daerah lain. </item>
+        <item> Kabupaten Bojonegoro juga punya beberapa tempat wisata daerah yang cukup unik dan tidak akan kamu temukan di tempat lain. Mulai dari api abadi di Ngasem hingga masjid kubah emas di Dander. Untuk beberapa alasan kamu mungkin harus atau ingin berkunjug ke Bojonegoro. Dan kapanpun kamu butuh waktu untuk refreshing di Bojonegoro, 3 tempat wisata ini bisa kamu kunjungi : </item>
+        <item> Bondowoso adalah kota kecil dengan kondisi geografis pegunungan, perbukitan, dan dataran rendah. Maka dari itu destinasi di Bondowoso yang paling menarik adalah wisata alam seperti air terjun, kawah, telaga, dan maih banyak yang lainnya. Baiklah berikut ini daftar tempat wisata di kabupaten Bondowoso yang berhasil Idnusantara rangkum sebagai tujuan belibur Anda. </item>
+        <item> Kabupaten Gresik, yang berbatasan dengan Surabaya, memang terkenal sebagai salah satu kota industri di Jawa Timur. Beberapa industri besar berada di sini, seperti industri semen, petrokimia, dan peralatan elektronik. Namun gresik juga memiliki tempat pariwisata yang menarik. Berikut 3 tempat wisata yang harus dikunjungi ketika ke gresik : </item>
+        <item> Jember adalah sebuah wilayah kabupaten yang merupakan bagian dari wilayah Provinsi Jawa Timur. Kabupaten Jember berada di lereng Pegunungan Yang dan Gunung Argopuro membentang ke arah selatan sampai dengan Samudera Indonesia. Dalam konteks regional, Kabupaten Jember mempunyai kedudukan dan peran yang strategis sebagai salah satu Pusat Kegiatan Wilayah (PKW). </item>
+        <item> Jombang merupakan kota yang memiliki beragai tempat wisata, dari wisata alam, wisata sejarah, dan juga wisata mistis, berikut 3 tempat wisata yang harus anda kunjungi ketika pergi ke Jombang : </item>
+        <item> Kediri merupakan kota yang penuh sejarah, cerita dan juga tempat-tempat indah yang bisa dikunjungi, berikut 3 tempat wisata yang harus anda kunjungi ketika pergi ke Kediri : </item>
+        <item> Lamongan merupakan salah satu kota indah yang ada di jawa timur. Kota dengan maskot ikan dan lele ini memiliki banyak tempat yang indah, antara lain : </item>
+        <item> Lumajang memiliki berbagai macam tempat wisata indah yang wajib kita datangi, ketika berpergian ke kota ini, antara lain seabgai berikut : </item>
+        <item> Madiun juga merupakan salah kota di Jawa Timur yang memiliki berbagai macam tempat indah, antara lain : </item>
+        <item> Magetan memiliki berbagai macam tempat wisata yang cukup menarik untuk dikunjungi, beberapa tempat wisata di Magetan yang bisa anda kunjungi adalah sebagai berikut : </item>
+        <item> Kota Malang dipenuhi tempat-tempat yang cocok untuk dikunjungi saat liburan keluarga. Berikut 3 tempat yang harus anda kunjungi ketika pergi ke Malang : </item>
+        <item> Mojokerto dipenuhi oleh tempat-tempat wisata yang layak untuk dikunjungi untuk mengisi waktu luang kita, tempat wisatayang ada di mojokerto antara lain sebagai berikut : </item>
+        <item> Sama Halnya dengan kota-kota lainnya, Kota Ngawi juga memiliki tempat-tempat indah yang wajib dikunjugi ketika mengunjungi kota ini, antara lain : </item>
+        <item> Pasuruan adalah salah satu kota di jawa timur yang memiliki tempat wisata yang indah, tempat wisata tersebut antara lain : </item>
+        <item> Ponorogo adalah kota yang terkenal dengan spiritual nya, namun ponorogo juga memiliki berbagai tempat menarik antara lain :</item>
+        <item> Probolinggo merupakan kota dengan penuh tempata wisata, berikut 3 tempat wisata yang harus anda kunjungi ketika pergi ke Probolinggo : </item>
+        <item> Sidoarjo merupakan salah satu kota yang ada di Jawa Timur. Di Sidoarjo terdapat Lumpur Lapindo yang terkenal karena keganasannya, namun sekarang tempat itu menjadi tempat wisata yang ramai dikunjungi orang. berikut tempat wisata yang ada di Sidoarjo yang bisa anda kunjungi : </item>
+        <item> Situbondo merupakan salah satu kota yang paling indah di jawa Timur dengan pantai dan juga safana nya, berikut beberapa tempat wisata yang harus anda kunjungi ketika pergi ke Situbondo : </item>
+        <item> Tidak kalah dengan kota yang berada di pulau Jawa, Sumenep yang berada di pulau Madura juga memiliki temapt pariwisata yang indah, antara lain : </item>
+        <item> Karena Surabaya merupakan kota indrusti yang penuh dengan perusahaan-perusahaan, jadi tempat wisata yang disini merupakan tempat wisata buatan, namun dengan kualitas bagus tentunya. berikut tempat pariwisata yang ada di Surabaya :</item>
+        <item> Tuban merupakan kota akan syarat sejarah kebudayaan dan pariwisata, berikut beberapa pariwisata yang ada di Tuban : </item>
     </string-array>
 
     <array name="tab4foto1">
         <item>@drawable/tab4foto1bangkalan</item>
         <item>@drawable/tab4foto1banyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab4foto1blitar</item>
+        <item>@drawable/tab4foto1bojonegoro</item>
+        <item>@drawable/tab4foto1bondowoso</item>
+        <item>@drawable/tab4gresik1</item>
+        <item>@drawable/tab4oto2jember</item>
+        <item>@drawable/tab4jombang</item>
+        <item>@drawable/tab4foto1kediri</item>
+        <item>@drawable/tab4lamongan</item>
+        <item>@drawable/tab4lumajang</item>
+        <item>@drawable/tab4foto1madiun</item>
+        <item>@drawable/tab4magetan1</item>
+        <item>@drawable/tab4malang1</item>
+        <item>@drawable/tab4mojokerto1</item>
+        <item>@drawable/tab4ngawi1</item>
+        <item>@drawable/tab4foto1pasuruan</item>
+        <item>@drawable/tab4ponorogo1</item>
+        <item>@drawable/tab4probolinggo1</item>
+        <item>@drawable/tab4foto1sidoarjo</item>
+        <item>@drawable/tab4situbondo1</item>
+        <item>@drawable/tab4foto1sumenep</item>
+        <item>@drawable/tab4foto1surabaya</item>
+        <item>@drawable/tab4tuban1</item>
     </array>
 
     <string-array name="tab4des1">
         <item> 1. Tempat Wisata Pantai Rongkang Bangkalan Madura terletak di Desa Kwanyar Barat Kecamatan Kwanyar Kabupaten Bangkalan, kira-kira 35 km di selatan kota Bangkalan. Kabupaten Bangkalan merupakan sebuah kabupaten di Pulau Madura, Provinsi Jawa Timur, Indonesia. Ibukotanya adalah Bangkalan. Kabupaten ini terletak di ujung paling barat Pulau Madura; berbatasan dengan Laut Jawa di utara, Kabupaten Sampang di timur serta Selat Madura di selatan dan barat. </item>
         <item> 1. Kawah Ijen, Kawah Ijen adalah sebuah kawah danau terbesar di Pulau Jawa dan  memilki pemandangan alam yang sangat indah, membuat siapa pun yang menyaksikannya akan kagum. Daya tarik utama dari objek wisata di Banyuwangi ini adalah api biru (blue fire). Api dengan warna biru di kawah ini terlihat semakin cantik saat kondisi di sekitarnya gelap. Jadi jika Anda ingin melihat keindahan api biru ini datanglah pada dini hari. Untuk sampai ke lokasi ini ada 2 jalur, yaitu jalur utara dan selatan. Waktu tempuh untuk jaur utara sekitar 2,5 jam yaitu dilalui dari Situbondo menuju Sempol (Bondowoso) dan berakhir di Paltuding. Jika menggunakan jalur selatan, melalui Banyuwangi menuju Licin yang berjarak kurang lebih 35 km. </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> 1. Pantai Umbul Waru Terletak di Desa Sidomulyo, Kecamatan Bakung, Blitar. Pantai ini bernama Pantai Umbul Waru dan bisa dibilang salah satu pantai yang cukup sempit dibandingkan pantai lain di Blitar. Di tempat ini kamu bisa ngadem sambil melihat ombak dan burung-burung yang saling berkejaran. Karena arus ombaknya yang terbilang besar, jangan berenang ya… cukup di pinggirannya saja. Kamu masih bisa kok menikmati alam raya Blitar dari tebing-tebing cantik di Pantai Umbul Waru. </item>
+        <item> 1. Wadu Pacal merupakan salah satu peninggalan Belanda di Bojonegoro. Waduk ini dibangun pada tahun 1924 dan mulai diresmikan tahun 1933. Lokasi waduk ini berada di pinggir jalan yang menghubungkan Kabupaten Bojonegoro dan Nganjuk, sekitar 35 km ke arah selatan dari pusat kota Bojonegoro. Lebih tepatnya di Desa Kedungsumber, Kecamatan Temayang. Para petani yang tinggal di sekitar waduk sangat mengandalkan air dari Waduk Pacal untuk menjaga tanaman mereka tetap teririgasi </item>
+        <item> 1. Wana wisata air terjun Tancak Kembar Andongsari yang terletak di desa Andongsari, kecamatan pakem sekitar 25 km arah barat dari kota Bondowoso. Tinggi tebing air terjun ini 77 m yang berhawa sejuk terdapat pada kawasan hutan lindung dengan ketinggian 900 mdpl. Pemanfaatan air terjun sampai saat ini tidak hanya untuk tempat rekreasi saja, akan tetapi untuk sarana irigasi, bahkan menurut masyarakat setempat, orang yang mandi disini dapat menambah awet muda. </item>
+        <item> 1. Pulau Bawean, Meski letaknya di tengah-tengah Laut Jawa, Pulau Bawean ini masih bagian dari Kabupaten Gresik. Pulau yang letaknya 80 mil atau 120 km dari Gresik ini ternyata menyimpan sejuta eksotisme pariwisata di dalamnya. Ada sejumlah pantai berpasir putih di sekeliling pulau, wisata pemandian air panas, air terjun, Danau Kastoba, sampai Pulau Noko yang bisa kamu jelajahi dengan berjalan kaki saat laut surut.  </item>
+        <item> 1. Air terjun Sumber Salak letaknya tersembunyi yang bahkan tidak semua penduduk sekitar tahu keberadaannya. Kalau mau mengunjungi tempat ini kamu harus sering-sering bertanya pada warga setempat yang tahu persis lokasinya. Siapkan pula kendaraan tempur yang prima sebab medan yang dilalui cukup berat. Pemandangan air terjun ini akan menghapus penat yang kamu dapat selama perjalanan. Keindahannya mengingatkan kita pada Air Terjun Niagara namun dalam ukuran mini. Untuk mendapatkan view yang indah kadang kita harus blusukan ke dalam hutan. Begitu pula di Jember ini, para pecinta petualangan akan dimanjakan dengan kondisi alamnya yang masih perawan yang di dalamnya tersimpan tempat keren yang tidak banyak diketahui traveler lain. Adalah Air Terjun Sumber Salak yang terletak di dalam hutan desa Sumbersalak, kecamatan Ledokombo. </item>
+        <item> 1. Air Terjun Tretes Jombang, Air Terjun Tretes merupakan air terjun tertinggi di Jawa Timur dan sangat indah dengan dua aliran air terjun sekaligus yang mengalir ke bawah.  Air terjun ini memiliki ketinggian 158 meter, terletak di ketinggian 1250 meter di atas permukaan air laut dan merupakan hulu sungai Sumber Watu Bonakah. </item>
+        <item> 1. Gunung Kelud, Gunung Kelud adalah gunung api yang paling aktif di Indonesia, selain Gunung Merapi. Terakhir kali gunung ini meletus adalah pada awal tahun 2014 lalu. Hingga kini, banyak wisatawan yang mengunjungi gunung ini karena pemandangan cantik dan indah yang ditawarkan oleh Gunung Kelud. Mereka yang datang ke gunung ini tidak hanya pendaki, namun juga wisatawan biasa. Anda bisa mencapai ketinggian gunung yang cukup tinggi dengan kendaraan karena jalanan sudah beraspal dan cukup mudah untuk dilalui. </item>
+        <item> 1. Wisata Bahari Lamongan, merupakan kawasan wisata bahari yang dipadukan dengan taman bermain. Obyek wisata ini berada di Kecamatan Paciran tepatnya berada di Jalur Pantai Utara atau Pantura antara Tuban-Surabaya. Gerbang masuk menuju ke dalam area WBL cukup ikonik berupa patung mr.Krab alias si kepiting. Taman bermain yang sekarang dikembangkan ini juga berada di kawasan wisata yang memang sudah terkenal yaitu Pantai Tanjung Kodok. Di dalamnya banyak terdapat wahana bermain dari yang slow hingga yang bikin jantung deg-degan. </item>
+        <item> 1. Gunung Semeru, Wisata paling terkenal di daerah lumajang ini ya gunung semeru. Gunung semeru berada di kawasantaman nasional bromo tengger semeru, yang merupakan sebuah kawasan wisata yang terletak di antara 4 kabupaten yaitu kabupaten pasuruan, kabupaten malang, kabupaten lumajang, dan kabupaten probolinggo. Jadi bisa dikatakan gunung semeru ini dimiliki oleh keempat kabupaten tersebut. Bagi anda pecinta alam atau yang suka mendaki gunung, belum lengkap rasanya jika anda belum bisa menaklukkan puncak semeru ini. </item>
+        <item> 1. Gungung Wilis, Gunung Wilis adalah salah satu gunung di Jawa Timur yang menantang untuk didaki meski gak terlalu tinggi. Apalagi, gunung ini memiliki beberapa puncak dengan jalur pendakian dari beberapa kota. Salah satu jalur pendakian untuk menjelajah Gunung Wilis adalah lewat Desa Kare, Kecamatan Kare, Kabupaten Madiun. Untuk memulai pendakian, kamu bisa lapor dulu kepada petugas di pos Kempo yang terletak di perkebunan kopi Kandangan setelah melewati Desa Kare. Selanjutnya, kamu bisa meneruskan perjalanan dengan sepeda motor atau menumpang ojek sampai ke dusun Pulosari. Setelah itu, barulah kamu memulai trekking ke puncak. Gunung wilis terkenal akan lebatnya hutan dan satwa liarnya, di sepanjang perjalanan kita akan disuguhi pemandangan yg sangat indah, banyak dijumpai satwa liar, perbukitan, air terjun serta lembah. </item>
+        <item> 1. Air Terjun Tirtasari, Mendatangi Air Terjun Tirtasari adalah keputusan yang tepat karena memang ini menjadi salah satu primadona pariwisata di Magetan. Berlokasi di lereng Gunung Lawu, air terjun ini memiliki tinggi lebih dari 50 meter. Untuk menjangkau tempat ini pun terbilang mudah dan setiap pengunjung tidak akan merasa kesulitan sama sekali. Para wisatawan dapat menikmati air terjun ini secara lebih memuaskan dengan menaiki tangga-tangga di sebelah air terjun yang terbuat dari beton. Selain itu, wisatawan juga bisa naik kuda untuk menelusuri lokasi air terjun. </item>
+        <item> 1. Museum Angkut, Museum Angkut merupakan sebuah tempat wisata baru yang memiliki konsep unik. Beralamat di Jl. Terusan Sultan Agung No. 2, Ngaglik, Kota Batu, Jawa Timur 65314Dibuka pada tanggal 9 Maret 2014, Museum Angkut menjadi tempat wisata pertama di AsiaTenggara yang mengusung tema transportasi. Museum ini dibangun sebagai tanda apresiasi untuk perkembangan dunia transportasi nusantara dan dunia. Maka tak mengherankan jika di sini Anda bisa menyaksikan berbagai koleksi moda transportasi mulai dari yang masih menggunakan tenaga binatang sampai tenaga listrik. Museum Angkut berada di bawah naungan Jawa Timur Park Group, sebuah perusahaan pengembang yang juga mendirikan Jatim Park I dan II dan Batu Secret Zoo dan beberapa tempat wisata populerlainnya. Hal ini tentunya cukup untuk memberi gambaran bahwa tempat wisata ini tidak digarap sembarangan, Jawa Timur Group telah memiliki banyak pengalaman dalam mengembangkan tempat wisata andalan di Indonesia.</item>
+        <item> 1. Mahavihara Majapahit Patung Budha Tidur Di Mojokerto, Mahavihara Majapahit adalah suatu obyek wempat wisata yang dibilang cukup unik dan menarik. Karena di tempat tersebut, anda bisa melihat patung budha dengan posisi tertidur dan hal tersebut identik dengan tempat peribadahan umat Budha.Patung budha tersebut berlokasi di samping vihara dan memiliki ukuran yang cukup besar sehingga menjadi patung budha tidur yang mempunyai warna emas paling besar ketiga yang ada di dunia. Hal tersebutlah yang menjadi salah satu saya tarik bagi wisatawan yang berkunjung ke lokasi tersebut. Patung budah tersebut tepatnya berlokasi di desa bejijong Trowulan. </item>
+        <item> 1. Benteng Pendem Van Den Bosch, Benteng Pendem Van Den Bosch terletak di Komplek Angicipi Batalyon Armed 12, pertemuan antara Jalan Diponegoro (sebelah timur) atau Jalan Untung Suropati (sebelah barat) RT/RW : 07/02, Kelurahan Pelem, Kecamatan Ngawi, Kabupatan Ngawi, Provinsi Jawa Timur. Johannes Graaf Van Den Bosch memiliki kedekatan nama dengan Benteng Van Den Bosch di Kabupaten Ngawi yang dibangun pada kurun waktu tahun 1839-1845. Benteng ini bertujuan  untuk menghadapi serangan perlawanan pejuang terhadap penjajah oleh pengikut Pangeran Diponegoro (Perang Jawa pada tahun 1825-1830) yang dipimpin oleh Wirotani (sumber : Buku De Java Oorlog karangan P.J.F. Louw, Jilid I Tahun 1894). Berdiri di atas lahan seluas ± 1 Hektar, diapit oleh sungai Bengawan Solo pada sebelah utara  dan sungai Bengawan Madiun pada sebelah selatan, tembok benteng berbentuk persegi panjang serta unjungnya dilengkapi dengan Seleka (Bastion), dikelilingi dengan parit dan gundukan tanah, sehingga menjadikan Benteng ini sangat kokoh sebagai basis pertahanan terhadap serangan. </item>
+        <item> 1. Taman Safari Indonesia II, Taman Safari Prigen atau yang lebih sering disebut Taman Safari Indonesia II adalah salah satu obyek wisata di Pasuruan yang menarik untuk dikunjungi bersama keluarga maupun sahabat tercinta. Taman Safari yang merupakan salah satu safari park terluas di Asia ini berada tepat di lereng Gunung Arjuna bahkan masuk dalam kawasan Taman Nasional Gunung Arjuna di Desa Jatiarjo, Kecamatan Prigen, Kabupaten Pasuruan. Pasti sudah bisa dibayangkan seberapa sejuk udara di Taman Safari Prigen ini. Tidak hanya mengoleksi satwa-satwa liar, Taman Safari Prigen juga menyiapkan wahana yang siap dibuat happy seharian. Ada wahana Outbond, Safari Aquatic Land, Elephant Journey, Paintball War Game, Baby Zoo, Education Show, Area Rekreasi, Safary Water World, dan Swimming With Dolphin. </item>
+        <item> 1. Telaga Ngebel, Telaga Ngebel sudah tidak asing lagi bagi sebagian orang, telaga yang berada di Kecamatan Ngebel ini menyuguhkan pemandangan telaga yang masih alami. Telaga ini berada kurang lebih 30 km dari arah kota. Setiap tanggal 1 Muharram di telaga ini diselenggarakan Larung Risalah Doa sebagai bagian dari peringatan Grebeg Suro. </item>
+        <item> 1. Pantai Bentar, Wisata Pantai Bentar merupakan salah satu wisata unggulan Probolinggo. Yang menarik di pantai ini adalah penampakan Hiu Tutul atau whale shark. Biasanya mereka muncul dan tampak pada bulan Januari - Maret. Cukup melihat dari pantai saja, bisa kelihatan kok, atau mungkin anda bisa menggunakan keker. Jaraknya sekitar 1 kilo dari bibir pantai. Konon hiu ini sedang bermigrasi dari Laut Australia sebab kalender cuaca </item>
+        <item> 1. Lumpur Lapindo, Lumpur Lapindo merupakan sebuah bencana alam yang awalnya dimulai dengan peristiwa menyemburnya lumpur panas di lokasi pengeboran. Lapindo Brantas Inc. di Sudun Balongnongo, Desa Renokenongo, Kecamatan Porong, Kabupaten Sidoarjo sejak tanggal 29 Mei 2006. Semburan lumpur tersebut terus meluas hingga akhirnya menenggelamkan beberapa kawasan pemukiman dan perindustrian di tiga kecamatan sekitarnya. Namun seiring perkembangannya, Lumpur Lapindo kini menjadi tempat wisata yang wajib dikunjungi ketika berada di Sidoarjo. Semburan lumpur berasap yang kini mesih mengepul di tengahnya menjadi daya tarik tersendiri. Ketika di atas tanggul, wisatawan bakal melihat hamparan air yang luas dan kepulan asap tepat di tengahnya. Nggak heran bila sebagian warga menyebutnya wisata ‘Waduk Berasap’. Meski demikian kamu harus tetap berhati-hati dan menjada jarak jika mengunjungi tempat ini sebab lumpur lapindo dapat menyembur sewaktu-waktu. </item>
+        <item> 1. Padang Savana, Situbondo memiliki padang savana yang sangat luas di kawasan Taman Nasional Baluran. Padang savana ini mirip dengan yang dimiliki oleh negara-negara di Amerika, Afrika, dll. Sama-sama eksotis, indah, dan luas. Background gunung Baluran yang gagah dan menjulang tinggi semakin memperindah pemandangan di sekitar padang savana ini. </item>
+        <item> 1. Gili Labak, Gili Labak menjadi tempat wisata di Madura yang wajib anda kunjungi. Keindahan pantai Gili Labak menjadikan tempat ini tujuan liburan favorit di Madura, baik oleh wisatawan local dan dari luar Madura. Pulau nan cantik ini konon memiliki keindahan yang menandingin tempat wisata di Lombok, yakni pantai Gili Trawangan. Jernihnya air pantai yang dipadu dengan pasir putih jelas menjadi sebuah kombinasi yang akan memanjakan mata pengunjung. </item>
+        <item> 1. Kebun Binatang Surabaya, Kebun Binatang Surabaya adalah salah satu tempat wisata di Surabaya yang populer. Berlokasi di Jalan Setail, dulunya Kebun Binatang Surabaya adalah kebun binatang terlengkap di Asia Tenggara. Harga tiket masuk Kebun Binatang Surabaya yang mempunyai luas sektiar 37 hektar ini adalah 15,000 Rupiah. </item>
+        <item> 1. Pantai Boom Tuban, Pantai yang satu ini merupakan semenanjung buatan yang awalnya adalah pelabuhan kuno yang digunakan di masa Majapahit. Letaknya di Desa Kutorejo, Tuban atau 150 M dari Pusat Kota Tuban dan oleh karena itu, tempat ini dapat dijangkau dengan mudah. Soal fasilitas yang ada di pantai ini bisa dibilang cukup lengkap karena diurus dengan baik oleh pemda setempat. Selain itu adapun objek wisata yang menarik di tempat ini seperti sumur tua, jalan yang menjorok ke laut serta gazebo yang dapat kita gunakan untuk melihat sunset dan sunrise. </item>
     </string-array>
 
     <array name="tab4foto2">
         <item>@drawable/tab4foto2bangkalan</item>
         <item>@drawable/tab4foto2banyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab4foto2blitar</item>
+        <item>@drawable/tab4foto2bojonegoro</item>
+        <item>@drawable/tab4foto2bondowoso</item>
+        <item>@drawable/tab4gresik2</item>
+        <item>@drawable/tab4oto2jember</item>
+        <item>@drawable/tab4jombang2</item>
+        <item>@drawable/tab4foto4kediri</item>
+        <item>@drawable/tab4lamongan2</item>
+        <item>@drawable/tab4lumajang2</item>
+        <item>@drawable/tab4foto2madiun</item>
+        <item>@drawable/tab4magetan2</item>
+        <item>@drawable/tab4malang2</item>
+        <item>@drawable/tab4mojokerto2</item>
+        <item>@drawable/tab4ngawi2</item>
+        <item>@drawable/tab4foto2pasuruan</item>
+        <item>@drawable/tab4ponorogo2</item>
+        <item>@drawable/tab4probolinggo2</item>
+        <item>@drawable/tab4foto2sidoarjo</item>
+        <item>@drawable/tab4situbondo2</item>
+        <item>@drawable/tab4foto1sumenep</item>
+        <item>@drawable/tab4foto2surabaya</item>
+        <item>@drawable/tab4tuban2</item>
     </array>
 
     <string-array name="tab4des2">
         <item> 2. Tempat Wisata Pantai Sambilangan Madura. Para Penelusur tau ga dimana Pantai Sambilangan?, kami disini mau berbagi beberapa keindahan dari Pantai Sambilangan. Karena Pantai Sambilangan merupakan pantai yang sangat eksotis yang terletak sekitar 7 km di sebelah selatan dari kota Bangkalan, di desa Sambilangan , kecamatan Bangkalan, Madura, Jawa Timur. Pantai Sambilangan terbilang merupakan pantai yang masih terpencil dan sangat alami. Walaupun begitu saat anda tiba di pantai ini anda tetap akan dikenakan tiket masuk kendaraan. Untuk kendaraan mobil akan dikenakan tarif sebesar Rp 3.000*) sedangkan motor sebesar Rp 2.000*). </item>
         <item> 2. Pulau Merah, Nama Pantai ini disebut pulau merah disebabkan adanya pulau kecil tak jauh dari bibir pantai yang jika diamati mirip seperti bukit dengan tanahnya yang berwarna merah. Pantai ini pernah dijadikan sebagai tempat kompetisi selancar Internasional pada tahun 2013. Tempat wisata di Banyuwangi yang satu ini juga memiliki ombak yang ideal bagi peselancar. </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> 2. Air Terjun Grenjeng ini terletak di Desa Balerejo, Kecamatan Panggungrejo, Blitar. Karena lokasinya yang cukup tersembunyi, air terjun Granjeng masih jarang dikunjungi. Di tempat ini kamu akan disuguhan pemandangan alam khas Blitar yang sungguh menawan. Kamu juga bisa berenang dan mandi di bawah grujugan air terjunnya. Lokasi Air Terjun Grenjeng ada di Desa Balerejo, Kecamatan Panggungrejo, Kabupaten Blitar. Air terjun yang unik. Meski berada di Blitar selatan, air terjun ini kurang mencerminkan ekosistem kars yang lazim dijumpai di wilayah tersebut. Bukanlah tebing kapur yang akan kita jumpai di sini, melainkan tebing breksi hitam yang kokoh. </item>
+        <item> 2. Air Terjun Kedungmaor merupakan sebuah air terjun yang berada di Desa Kedung Sumber, Kecamatan Temayang, Bojonegoro. Lokasi air terjun ini berada di kawasan hutan RPH (Resort Pemangkuaan Hutan) Tretes, Bojonegoro. Air terjun ini bisa dijadikan alrternatif jika kamu adalah seseorang yang menyukai wisata alam yang membutuhkan sedikit petualangan </item>
+        <item> 2. Arum jeram Bosamba merupakan objek wisata alam yang berada di kecamatan Taman Krocok Kabupaten Bondowoso. Bosamba merupakan singkatan dari Bondowoso - Sampean Baru, Bosamba Rafting atau arum jeram ini tidak hanya dinikmati oleh masyarakat Bondowoso saja, akan tetapi dinikmati juga oleh para pecinta olah raga arum jeram dari daerah lainnya bahkan manca negara. Akses jalan untuk menuju ketempat ini sangat mudah hanya berjarak sekitar 2 km dari jalan provinsi kecamatan Wonosari. </item>
+        <item> 2. Telaga Ngipik, Telaga Ngipik atau yang dikenal juga dengan nama Taman Wisata Giri Wana Tirta.Telaga Ngipik menjadi oase di tengah sumpek nya kawasan industri kota Gresik. Letaknya hanya sekitar 1,5 km dari alun-alun kota Gresik. Di sini, kamu bisa menikmati semilir angin dan rindangnya pepohonan yang hijau, dengan panorama telaga sebagai daya tariknya. Selain itu, tempat ini juga sering dimanfaatkan untuk kegiatan ski air oleh Persatuan Ski Air seluruh Indonesia atau PSASI Jatim </item>
+        <item> 2. Pantai ini menjadi salah satu tempat wisata favorit di Jember, terutama bagi mereka yang suka dengan olahraga air seperti body surfing. Anda bisa menyewa perlengkapan untuk body surfing yang telah disediakan pihak pengelola pantai. Ada banyak pilihan lain selain body surfing, anda bisa memilih berkano, menyusuri sungai dengan menggunakn speedboot, ataupun melihat banyak burung yang hiup di kawasan tersebut. Di sekitar pantai, disini ada Green House yang menjadi rumah bagi bunga anggrek, anda bisa melihat koleksi tanaman bunga anggrek, dan obyek wisata yang satunya lagi adalah tempat penangkaran rusa timor. Selain wisata pantainya, ada beberapa obyek wisata di kawasan ini, yaitu Green House, di sini anda dapat mlihat koleksi tanaman bunga anggrek, dan obyek wisata yang satunya lagi adalah tempat penangkaran rusa timor. </item>
+        <item> 2. Candi Ngrimbi, Dalam bahasa setempat, candi yang menjadi pintu masuk di arah selatan pusat kerajaan Majapahit ini disebut juga Candi Ngrimbi. Candi ini pada awalnya berfungsi sebagai tempat beristirahat para prajurit kerajaan Majapahit beserta pimpinannya. Namun karena perhatian Pemerintah yang masih kurang, dalam salah satu foto ini terlihat bahwa Candi Ngrimbi mengalami kerusakan pada sejumlah sisi sehingga bentuknya tidak sesuai dengan aslinya. </item>
+        <item> 2. Monumen Simpang Lima Gumul, Monumen Simpang Lima Kota Kediri merupakan salah satu tempat wisata bersejarah di Kediri  lainnya yang memiliki daya tarik tersendiri bagi wisatawan, sehingga banyak wisatawan terutama anak muda yang sering mengunjungi tempat tersebut untuk menikmati keindahan kota Kediri atau hanya untuk sekedar nongkrong sambil bercengkrama dengan teman. Sunset merupakan salah satu daya tarik dari tempat wisata bersejarah ini. Tak heran jika menjelang sore hari banyak pasangan muda-mudi yang menghabiskan waktu sorenya di Monumen Simpang Lima Kediri. Di monumen ini juga terdapat ukiran atau relief yang mengilustrasikan cerita rakyat ataupun kisah rakyat yang dulunya pernah berkembang di kota Kediri. Monumen Simpang Lima merupakan ikon dari kota Kediri sehingga keberadaan tempat wisata di Kediri ini harus tetap dijaga keindahan dan kelestariannya. </item>
+        <item> 2. Pantai Brondong, Selain Pantai Kodok yang berada di WBL, Kabupaten Lamongan juga memiliki obyek wisata pantai lainnya yaitu Pantai Brondong. Berbeda dengan Pantai Kodok, di Pantai Brondong wisatawan tidak hanya dapat menikmati pesona alam pantai yang dihiasi dengan aneka kapal tradisional, di sini Anda juga berkesempatan untuk membeli ikan dengan harga yang lebih murah, karena di Pantai Brondong terdapat Tempat Pelelangan Ikan. Obyek wisata di Lamongan ini berada di Desa Brondong, Kecamatan Brondong, Lamongan. Jika dari pusat Kota Lamongan, pantai ini berjarak sekitar 47 km. </item>
+        <item> 2. Gunung Lamongan, Gunung Lamongan yang punya keindahan panorama seperti semeru sedikit bocoran, katanya gunungâ lamongan ini merupakan replika atau miniatur dari gunung semeru, Keindahannya tak jauh berbeda dari semeru, tapi perbedaan adalah pada ketinggian yang lebih rendah yaitu sekitar 1651 mdpl. Cocok buat kamu yang sedang persiapan untuk menanklukkan mahameru. Keindahannya alamnya juga tak kalah cantik. Disini matamu akan dimanjakan dengan keindahan triangle lake yaitu ranu klakah, ranu pakis dan ranu bedali. Disebut triangle lake karena memang ranu-ranu tersebut jika dihubungkan akan membentuk segitiga. Lokasi gunung lamongan ini berada pada daerah klakah kawasan utara lumajang. </item>
+        <item> 2. Wisata Alam Grape, Grape merupakan salah satu obyek wisata bernuansa alam. Berlokasi diarea lereng Gunung Wilis tepatnya Desa Kresek, Kecamatan Wungu, Kabupaten Madiun. Disini anda bisa menikmati sebuah perdesaan yang disetting sedemikian rupa menjadi tempat wisata yang mengajak pengunjungnya bisa kembali menikmati suasana alam perdesaan, di tempat ini juga terdapat mata air alami yang berasal dari Pengunungan Dungus. Selain itu ada juga kegiatan menarik yang dapat anda lakukan di sini yaitu bersepeda, panjat tebing, hiking, bahkan berkemah. Wisata Grape berada di tepi hutan jati. Wisata Grape sangatlah cocok sebagai tempat liburan keluarga. Tempat wisata di Madiun ini menyuguhkan wahana permainan yang bermacam-macam, seperti taman bermain anak-anak, tempat memancing, bahkan menyediakan tempat untuk camping, dan masih banyak wahana lainnya. </item>
+        <item> 2. Telaga Sarangan, Wisata alam lainnya di Magetan yang tidak akan membuat pengunjung kecewa adalah Telaga Sarangan yang berada di kaki Gunung Lawu. Telaga pasir ini adalah sebuah lokasi wisata asli dan alami yang bisa ditempuh dengan jarak kurang lebih 16 kilometer dari kota Magetan ke arah barat. Telaga yang memiliki kedalaman 28 meter dan luas 30 hektar ini benar-benar dingin, jadi siapkan diri sebelum melakukan kunjungan sebab suhu udaranya berada diantara 18-25 derajat Celsius. </item>
+        <item> 2. Pantai 3 Warna, Wisata Pantai 3 Warna Ini Berada di Malang Jawa Timur tepatnya Desa Tambak Rejo, Pedukuhan Sendang Biru, Kec. Sumber Manjing Wetan, Malang, Jawa Timur 65176. Pantai ini sangat bagus untuk traveler karena pantai ini memiliki 3 warna yang disebabkan oleh adanya perbedaan kedalaman air laut nya. Untuk Menuju Pantai Tiga Warna Ini Jika anda dari Kota Malang Cukup Mudah Tingal Ikuti arah ke pantai sendang Biru. karena pantai Tiga Warna Ini Dekat Dengan Pantai Sendang Biru. Nanti Ada petunjuk jalan  nanti ada petunjuk arah dan anda harus mengambil jalur ke arah Pantai Clungup atau Pantai Goa Cina sekitar 2 km dari pertigaan ada petunjuk arah yang menuju ke Pantai Clungup. </item>
+        <item> 2. Museum Trowulan Mojokerto, Seperti Halnya kabupaten Temanggung, trowulan juga tidak mau kalah denga wisata museumnya. Yaitu Musem trowulan Mojokerto yang berlokasi di desa Trowulan Kec Trowulan Mojokerto.museum ini mempunyai koleksi benda benda peninggalan kerajaan majapahit. Tidak hanya benda benda dari kerajaan majapahit, museum ini juga menyimpan benda benda bersejarah dari kerajaan kediri, kerajaan kahuripan dan juga kerajaan singasari </item>
+        <item> 2. Air Terjun Pengantin, Air Terjun Pengantin ini terletak di desa Hargomulyo kecamatan Ngrambe. Air Terjun ini mempunyai  ketinggian 20 m dan  bercabang menjadi dua. Suasananya yang alami membuat kita merasa damai, sejuk dan asri karena terletak ditengah rerimbunan hutan bamboo. Bagi muda mudi yang berkunjung di air terjun pengantin ini dipercaya akan menjadi pasangan seumur hidup. Untuk mencapai air terjun Pengantin ini, prasarana jalan telah dirabat, dilanjutkan dengan berjalan kaki kurang lebih 1 km. </item>
+        <item> 2. Kebun Raya Purwodadi, Wisatawan juga dapat berwisata alam ke Kebun Raya Purwodadi. Selain sebagai tempat wisata, perkebunan dengan luas sekitar 85 hektar ini juga difungsikan sebagai areal observasi yang dilakukan oleh LIPI untuk kepentingan pertanian di Indonesia. Obyek wisata di Pasuruan ini pada awalnya didirikan oleh bangsa Belanda yaitu Dr. Lourens Gerhard Marinus Baas Becking dengan diprakarsai oleh Dr. Dirk Fon van Slooten pada tanggal 30 Januari 1941. Aneka koleksi tanaman yang tumbuh di dalam Kebun Raya Purwodadi mencapai 10.000 jenis tumbuhan diantaranya adalah 157 jenis polongpolongan, 319 jenis anggrek, 30 jenis bambu, 60 jenis tanaman paku, 1.896 palem (arecaceae), dan sebagainya. </item>
+        <item> 2. Air Terjun Plethuk, Air Terjun Pletuk adalah air terjun dengan ketinggian kurang lebih 30 meter yang berda di Dusun Kranggan, Desa Jurug, Kecamatan Sooko. Deburan air yang jatuh menghasilkan buih-buih yang sejuk ditambah pemandangan sekitar air terjun yang hijau membuat pengunjung betah berlama-lama ditempat ini. </item>
+        <item> 2. Hutan Mangrove, Probolinggo patut berbangga karena memiliki Hutan Mangrove, didukung oleh wilayah yang berbatasan dengan laut, membuat Probolinggo banyak menyuguhkan tempat – tempat menarik yang langsung berhadapan dengan laut, salah satunya Wisata Mangrove, banyak wisatawan dari daerah luar Probolinggo, yang berkunjung ke Probolinggo yang tidak hanya berwisata tetapi juga melakukan penelitian dan Observasi lingkungan, diantara kawasan probolinggo yang disediakan untuk tempat Wisata Mangrove </item>
+        <item> 2. Museum Mpu Tantular, Museum Mpu Tantular terletak di Jalan Raya Buduran, sebuah wisata budaya yang sangat menarik untuk dikunjungi. Museum Mpu Tantular berada di area lahan dengan luas 3,28 hektar. Museum Mpu Tantular menyimpan banyak peninggalan bersejarah, seperti emas dan lukisan yang dibuat pada abad ke-14. Keberadaan museum ini sangat penting untuk memperkenalkan kebudayaan nusantara pada generasi penerus. Koleksi benda bersejarah yang dimiliki membuatmu betah berkeliling di dalamnya, mulai dari koleksi emas, etnografi, numismatik, geologi biologi hingga seni rupa pada abad ke-14. </item>
+        <item> 2. Terumbu Karang, Pantai keren ini juga terletak tak jauh dari padang savana, dengan jaraknya sekitar 2 km. Pantai ini masih masuk ke dalam wilayah Taman Nasional Baluran. Sama seperti padang savana, pantai bama diawasi penuh oleh pihak Perhutani Kabupaten Situbondo agar kelestariannya tetap terjaga. Di pantai ini, terkenal sekali keindahan terumbu karangnya. </item>
+        <item> 2. Hutan Bawah Laut Kepulauan Kangea, Di alam bawah laut Kepulauan Kangean in bisa dilihat aneka ikan dengan warna-warni yang cantik serta terumbu karang yang indah. </item>
+        <item> 2. Tugu Pahlawan, Tugu Pahlawan merupakan sebuah monumen yang paling terkenal di kota Surabaya. Monumen yang terletak di Jalan Pahlawan ini mempunyai tinggi lebih dari 40 meter dan berbentuk sepeti paku terbalik. Tugu Pahlawan dibuat di atas lahan seluas lebih dari 1 hektar untuk memperingati dan menghormati seluruh prajurit Surabaya yang gugur dalam perang melawan para penjajah. Selain itu, di bawah tanah Tugu Pahlawan juga terdapat museum berisi foto-foto dokumentasi. </item>
+        <item> 2. Pantai Ramen Tuban, Pantai ini tergolong baru karena baru dibuka pada tanggal 22 Februari 2015 silam. Berlokasikan di Desa Remen, Jenu, Tuban. Pantai yang satu ini terkenal akan pasir putih dan danau besarnya yang begitu indah. Selain itu, kalau anda berkunjung ke pantai ini maka tidak perlu khawatir perut anda akan keroncongan. Karena mulai saat ini, di Pantai Remen ini sudah terdapat banyak tenda pedagang berjejeran yang berlokasikan tepat ditepi pantai. Meskipun begitu, kebersihan dari pantai ini juga terjaga dengan baik. </item>
     </string-array>
 
     <array name="tab4foto3">
         <item>@drawable/tab4foto3bangkalan</item>
         <item>@drawable/tab4foto3banyuwangi</item>
-        <item>@drawable/bndws</item>
-        <item>@drawable/bngkln</item>
-        <item>@drawable/bnywg</item>
-        <item>@drawable/grsk</item>
-        <item>@drawable/jmbng</item>
-        <item>@drawable/jmbr</item>
-        <item>@drawable/kdr</item>
-        <item>@drawable/kpnjn</item>
-        <item>@drawable/lmgn</item>
-        <item>@drawable/lmjng</item>
-        <item>@drawable/mdun</item>
-        <item>@drawable/mgtn</item>
-        <item>@drawable/mjkrt</item>
-        <item>@drawable/mlg1</item>
-        <item>@drawable/ngw</item>
-        <item>@drawable/pnrg</item>
-        <item>@drawable/prob</item>
-        <item>@drawable/psrn</item>
-        <item>@drawable/sby1</item>
-        <item>@drawable/sda</item>
-        <item>@drawable/smnp</item>
-        <item>@drawable/stbnd</item>
+        <item>@drawable/tab4foto3blitar</item>
+        <item>@drawable/tab4foto3bojonegoro</item>
+        <item>@drawable/tab4foto3bondowoso</item>
+        <item>@drawable/tab4gresik3</item>
+        <item>@drawable/tab4oto3jember</item>
+        <item>@drawable/tab4jombang3</item>
+        <item>@drawable/tab4foto5kediri</item>
+        <item>@drawable/tab4lamongan3</item>
+        <item>@drawable/tab4lumajang3</item>
+        <item>@drawable/tab4foto3madiun</item>
+        <item>@drawable/tab4magetan3</item>
+        <item>@drawable/tab4malang3</item>
+        <item>@drawable/tab4mojokerto3</item>
+        <item>@drawable/tab4ngawi3</item>
+        <item>@drawable/tab4foto3pasuruan</item>
+        <item>@drawable/tab4ponorogo3</item>
+        <item>@drawable/tab4probolinggo3</item>
+        <item>@drawable/tab4fotosidoarjo</item>
+        <item>@drawable/tab4situbondo3</item>
+        <item>@drawable/tab4foto3sumenep</item>
+        <item>@drawable/tab4foto3surabaya</item>
+        <item>@drawable/tab4tuban3</item>
     </array>
 
     <string-array name="tab4des3">
         <item> 3. Bukit Geger terletak kurang lebih 30 km arah tenggara kota Bangkalan, tepatnya berada di desa Geger, kecamatan Geger. Dari Kota Bangkalan lurus terus ke arah utara yaitu ke arah kecamatan Arosbaya, lalu ke timur kearah kecamatan geger. Disitulah bukit itu berada. Bukit tersebut mudah dijangkau karena letaknya tepat dipinggir jalan raya. Di Bukit Geger, Para Penelusur ga cuma wisata alam, tetapi juga berwisata purbakala. </item>
         <item> 3. Teluk yang memiliki hamparan pasir putih yang lembut dan dikelilingi hutan tropis ini memasuk kedalam kawasan Taman Nasional Meru Betiri. Teluk hijau memiliki air yang jernih kehijauan dan panorama alam yang memikat. Perjalanan ke objek wisata teluk hijau cukup melelahkan namun akan terbayar dengan keindahan alamnya yang mengagumkan. Disini Anda juga bisa melakukan banyak kegiatan seperti snorkeling, memancing dan berenang. </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
-        <item> a </item>
+        <item> 3. Destinasi wisata alam Blitar ini terletak di Desa Krisik, Kecamatan Gandusari. Jaraknya kurang lebih 30 km dari kota Blitar. Di sini kamu akan disuguhkan pemandangan hijau dari perkebunan teh dan ladang persawahan warga setemmpat. Yang menarik dari tempat ini adalah; adanya sebuah telaga, candi, dan petilasan yang sungguh berbeda dari tempat wisata lain di Jawa Timur. Kamu bisa ngadem di sini, duduk bersantai sambil menikmati desir angin yang akan mengugurkan penatmu. Oh ya, meski airnya yang bening itu, kamu tidak diperbolehkan untuk berenang, loh. Kok? Sebab di dalam telaga itu ada ikan, yang masyarakat setempat menyebutnya Ikan Dewa. Selain telaga, ada pula sebuah candi Hindu serta air terjun di kawasan ini. Nikmatilah bersantai di gazebo sembari merasakan sejuknya udara lereng gunung Kelud dan hijaunya pemandangan. </item>
+        <item> 3. Selain Kedungmaor, air terjun lain yang bisa kamu kunjungi di Bojonegoro adalah Air Terjun Krondonan. Nama air terjun ini sebenarnya belum diketahui secara pasti. Namun, karna lokasinya berada Desa Krondonan maka banyak yang menyebut air terjun ini dengan nama Air Terjun Krondonan. Desa Krondonan sendiri berada di Kecamatan Gondang. Air terjun ini juga cocok untuk kamu yang menyukai wisata patualangan </item>
+        <item> 3. Sarkofagus adalah salah satu dari situs megalitikum yang lebih dikenal dengan nama keranda yang dibuat dari batu atau sejenis batu cadas. Berbentuk lesung atau palung, tetapi ada tutupnya. Fungsinya sama dengan kuburan batu/ dolmen. Sarkopage terdapat di beberapa desa antara lain desa Glinseran, kecamatan Wringin. Tepatnya ± 19 km kearah barat kota Bondowoso. </item>
+        <item> 3. Bukit Jamur, Berjarak sekitar 5, 6 kilometer dari gunung kapur Sekapuk, Bukit Jamur ini juga adalah salah satu lokasi bekas galian yang kini nge-hits sebagai tempat wisata. Karena bagian bawahnya terkena erosi yang disebabkan oleh hujan dan angin, maka terbentuklah jamur-jamur raksasa seperti sekarang ini. </item>
+        <item> 3. Keberadaan pantai Payangan ini belum diketahui oleh banyak orang. Walau tak memilki pasir putih seperti pantai-pantai di Indonesia timur, pesona pantai Payangan tak kalah asik. Pantai ini terutama sangat cocok dikunjungi oleh kamu yang sering mengeksplor tempat-tempat baru. Pantai Payangan merupakan sebuah pantai yang cukup unik. Di pantai ini terdapat bukit-bukit yang cukup tinggi, mengingatkan kita pada pada pantai Mawun di Lombok. Banyak nelayan yang melakukan aktivitas di pantai yang membuat kunjunganmu ke pantai ini akan semakin bermaknda ketika menyaksikan bagaimana para nelayan beraktivitas </item>
+        <item> 3. Makam Gunung Pucung, Gunung puncung secara nyata tidaklah berbentuk gunung. Mungkin karena lokasinya di daerah pegunungan, tepatnya gunung Anjasmoro, maka disebut gunung. Gunung Puncung adalah nama salah satu pemakaman yang terletak di desa Wonorejo, kecamatan Wonosalam, Kabupaten Jombang. Menurut cerita rakyat, Gunung Puncung adalah makam orang yang memiliki kesaktian tinggi sehingga dihormati orang banyak. Sehingga tempat ini sering menjadi rujukan orang-orang yang berdoa dan ngalap berkah dari alam ghaib. </item>
+        <item> 3. Gunung Klotok, Gunung Klotok adalah salah satu gunung yang terdapat di dekat kaki Gunung Wilis. Gunung ini terletak di Kelurahan Pojok, Kecamatan Mojoroto, Kediri, Provinsi Jawa Timur. Gunung ini merupakan gugusan pegunungan Wilis yang letaknya cukup jauh dari Gunung Wilis sendiri. Gunung ini memiliki ketinggian ± 536 MDPL. Nama Klotok berasal dari kata Kolo dan Tok. Kolo yang berarti bahaya dan tok berarti saja. Sehingga Klotok berarti gunung yang berbahaya. Keunikan gunung ini adalah bentuknya menyerupai sosok perempuan yang sedang tidur. Olehnya Klotok juga dijuluki sebagai Si Cantik Tidur. </item>
+        <item> 3. Goa Maharani, Untuk tempat wisata ini terletak di kecamatan Paciran, di tepi jalur utama Pantura, Lamongan. Di tempat wisata ini sangat cocok bagi anda yang sangat menyukai indahnya wisata goa. Pemandangan goa kapur yang indah akan membuat anda merasa nyaman dan tenang berada di tempat ini. Di dalam goa, anda akan menjumpai keindahan stalaktit dan stalakmit yang memancarkan warna yang berbeda, bentuknya pun juga unik. Goa ini secara resmi dijadikan obyek wisata pada 10 Maret 1994. </item>
+        <item> 3. Ranu Pani, Ranu Pani adalah objek wisata di jawa timur yang terletak di Desa Ranu Pani, Kecamatan Senduro, Kabupaten Lumajang, Jawa Timur. dan merupakan bagian dari Taman Nasional Bromo Tengger Semeru (tnbts), sebuah danau hijau seluas 1 hektar. Dari tempat ini, kita bisa melihat Gunung Semeru Mahameru yang berdiri megah dengan kaldera di sekitar kawah. dan menjadi salah satu tempat wisata favorit bagi pecinta Pendakian Ke Gunung Semeru karna danau ranu pane merupakan lokasi (tempat) transit trekking Pendakian Ke Ranu Kumbolo dan jalur hiking ke gunung semeru (3.767m dpl), dan bisa di katakan jalur melalui ranu pane ini adalah jalur yang paling aman untuk dilalui dan merupakan jalur eksplorasi. </item>
+        <item> 3. Taman Wisata Umbul, Taman Wisata Umbul berada di Desa Glonggong, kecamatan Dolopo yang berjarak 20 km kearah selatan kota Madiun. Perlu anda tau, taman wisata Umbul ini merupakan peninggalan Belanda lho. Disini ada banyak sekali permainan seperti roller coaster, kora-kora, kincir angin, dan permainan sejenisnya. Disini juga ada kolam renang, pesanggrahan, kebun binatang mini, rumah makan, tempat bermain anak dan juga sumber air belerang. Untuk yang ingin bermalam ditempat ini juga disedikan tempat penginapan. Berbeda dengan taman lain pada umumnya, Taman Umbul menawarkan keindahan alam dan sesuatu yang berbeda. Kelebihan dari taman ini adalah letaknya begitu dengan alam. Taman Umbul diapit oleh dua jurang di kedua sisinya. Taman Umbul juga memiliki udara yang bersih bebas dari polusi serta air yang sejuk dan jernih. Jangan lewatkan tempat ini saat anda mengunjungi Madiun. </item>
+        <item> 3. Air Terjun Pundak Kiwo, Di Magetan, wisata alam lainnya yang akan membuat liburan makin asyik adalah Air Terjun Pundak Kiwo yang menarik dan akan meninggalkan kesan luar biasa bagi setiap wisatawan. Memang khusus obyek wisata satu ini tengah dalam pengembangan oleh pemerintah Kabupaten Magetan sehingga kita bisa melihat bahwa air terjun ini makin keren nantinya. Dengan ketinggian sekitar 45 meter, air terjun ini ada di Desa Ngancar dan ada di bagian teratas dari sederetan air terjun di desa ini. </item>
+        <item> 3. Alun Alun Kota Malang, Alun-alun kota Malang adalah satu dari dua alun-alun yang dimiliki Malang. Alun-alun ini juga disebut dengan Alun-alun Jami karena letaknya tepat di depan Masjid Jami yang merupakan masjid kebanggaan warga Malang. Sedangkan alun-alun yang satunya lagi bernama Alun-Alun Bundar karena memang bentuknya lingkaran dan alun-alun ini terletak tepat di depan Balai Kota. </item>
+        <item> 3. Makam Troloyo ternyata syarat akan sejarah masa lalu yang hingga saat ini tetap menjadi salah satu tujuan obyek wisata bersejarah yang patut anda dikunjungi. Wisata ini berhasil menciptkan daya tarik tersendiri bagi siapapun yang berkunjung ke lokasi wisata ini. Makam Troloyo berlokasi di Kec Trowulan, dan lebih tepatnya berada di wilayah Sentonorejo. Makam Tersebut juga sering dijadikan sebagai tempat untuk berziarah sekaligus menjadi tempat wisata religi. </item>
+        <item> 3. Waterboom Tirto Nirmolo, Saat ini Tirto Nirmolo adalah satu satunya waterboom dikota Ngawi. Tempatnya yang sangat mudah dijangkau yakni dipinggir jalan raya Ngawi Madiun km 6, water boom ini tidak pernah sepi pengunjung.  Letak persis Tirto Nirmolo ada di desa Tempuran kecamatan Paron kabupaten Ngawi. Tempat rekreasi water boom andalan ini dilengkapi dengan kereta gantung dan perahu air  serta aneka kuliner. </item>
+        <item> 3. Pemandian Banyu Biru, Ini dia pemandian kolam alami yang sudah ada semenjak jaman penjajahan Belanda. Pastinya pemandian ini kondang banget di Pasuruan. Apalagi jaraknya yang cuma 15 km dari Pasuruan. Ketuaan pemandian yang berlokasi di Desa Sumberejo Kecamatan Winongan, Kabupaten Pasuruan ini kian terasa karena keberadaan arca-arca peninggalan Kerajaan Majapahit. </item>
+        <item> 3. Tanah Goyang adalah sebuah tanah yang lapang yang berada di tengah hutan pinus di Lereng Gunung Wilis, tepatnya berada di Kecamatan Pudak. Dinamakan Tanah Goyang karena jika kita kita menginjak tanah tersebut akan bergerak dan bergoyang. </item>
+        <item> 3. Taman Wisata Study Lingkungan, Lokasi TWSL berada di lahan eks bengkok Pemerintah Kota Probolinggo di Joboan Kelurahan Mangunharjo kecamatan Mayangan dengan luas kurang lebih 1 ha . Terdapat kurang lebih dua puluh jenis tanaman tahunan di TWSL antara lain Sengon , mengkudu , Mahoni , Waru Rangkang dll. Selain berbagai jenis tanaman, di Taman Wisata Study Lingkungan juga terdapat taman satwa berbagai jenis seperti Aves, Mamalia, Pisces, Reptil dan Tree  </item>
+        <item> 3. Monumen Sidoarjo, Potensi wisata yang perlu disinggahi saat berkunjung ke Sidoarjo adalah Alun-Alun Sidoarjo. Pepohonan raksasa yang rimbun membuat alun-alun bergaya kolonial Hinda-Belanda ini tampak begitu teduh. Di tengah alun-alun menjulang Monumen Sidoarjo dengan logo Udang dan Bandeng raksasa. Landmark kota ini kian lengkap dengan kehadiran Masjid Agung Sidoarjo dan bangunan kuno yang masih berfungsi sebagai kantor pemerintahan dan bank. Namun, alasan utama kenapa wisatawan perlu datang ke sini, sebenarnya karena di pusat jajanan alun. Disini kamu bisa melihat monumen Sidoarjo berupa logo bandeng dan udang di tengah sejuknya hawa kota. Karena suasana yang sejuk, tak jarang banyak penduduk yang memanfaatkan lokasi tersebut untuk tempat jogging dan bersepeda. </item>
+        <item> 3. Pantai Pasir Putih, Ada lagi yang lebih heboh dan berwarna-warni di salah satu destinasi wisata di Situbondo. Kalau kamu ingin menikmati koral warna-warni dengan aneka ikan cantik berkeliaran di terumbu karang, kamu harus datang ke pantai pasir putih. Pantai ini berlokasi di Dusun Kembangsambi, Desa Pasir Putih, Kecamatan Bungatan, Kabupaten Situbondo, Jawa Timur. Ada barisan pohon cemara udang, kelapa, dan pohon jati di sepanjang pantai. </item>
+        <item> 3. Gungung Jaddih, Gunung Jaddih merupakan salah satu tempat wisata di Madura yang cukup unik dan tergolong baru. Pasalnya, objek wisata Madura ini merupakan laham tambang batu gamping atau batu kapur. Objek wisata Gunung Jaddih menawarkan pesona alam yang indah dan ini sudah dikembangkan menjadi tempat liburan yang tidak boleh dilewatkan. </item>
+        <item> 3. Taman Bungkul, Berada di Jalan Raya Darmo, Taman Bungkul adalah tempat favorit untuk kumpul-kumpul warga Surabaya. Taman Bungkul di lengkapi dengan tempat bermain anak-anak, jogging track, amfiteater, tempat bermain skateboard, kolam air mancur, internet, dan suasana hijau. Banyak acara hiburan dan kebudayaan yang digelar di Taman Bungkul. Apabila anda ingin berwisata kuliner, di Taman Bungkul juga ada banyak penjual makanan khas Surabaya. </item>
+        <item> 3. Air Terjun Nglirip, Objek Wisata Air Terjun Nglirip merupakan salah satu air terjun yang terdapat di Kabupaten Tuban yang sudah terkenal dikalangan para wisatawan karena memiliki pemandangan alam yang eksotis yang disuguhkan oleh sebuah air terjun dengan ketinggian sekitar 30 meter dan dikelilingi pepohonan rimbun di sekitarnya. </item>
     </string-array>
 
 </resources>

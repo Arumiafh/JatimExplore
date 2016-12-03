@@ -30,7 +30,6 @@ import id.sch.smktelkom_mlg.project.xirpl106152433.jatimexplore.model.KotaData;
 public class MainActivity extends AppCompatActivity implements BaseSliderView.OnSliderClickListener, ViewPagerEx.OnPageChangeListener, KotaHomeAdapter.IKotaAdapter {
     public static final String ID = "id";
     public static final String KOTA = "kota";
-    String kota;
     ArrayList<KotaData> mList = new ArrayList<>();
     KotaHomeAdapter mAdapter;
     private SliderLayout mDemoSlider;
@@ -42,6 +41,16 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         //setSupportActionBar(toolbar);
         mDemoSlider = (SliderLayout) findViewById(R.id.slider);
+
+//        FancyButton showallbutton = new FancyButton(this);
+//        showallbutton.setText("Show All");
+//        showallbutton.setBackgroundColor(Color.parseColor("#3b5998"));
+//        showallbutton.setFocusBackgroundColor(Color.parseColor("#5474b8"));
+//        showallbutton.setTextSize(17);
+//        showallbutton.setRadius(5);
+//        showallbutton.setIconResource("\uf082");
+//        showallbutton.setIconPosition(FancyButton.POSITION_LEFT);
+//        showallbutton.setFontIconSize(30);
 
         RecyclerView recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
         LinearLayoutManager layoutManager = new LinearLayoutManager(this);
@@ -272,9 +281,9 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
+        /*if (id == R.id.action_settings) {
             return true;
-        }
+        }*/
 
 
         return super.onOptionsItemSelected(item);
