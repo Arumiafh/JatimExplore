@@ -81,7 +81,7 @@
 
 Video :
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=id
+<a href="https://youtu.be/oi4BPi0KtOI
 " target="_blank"><img src="http://img.youtube.com/vi/id/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
