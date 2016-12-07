@@ -20,15 +20,14 @@
 
 *Screenshot Home View :*
 
-![Ss5](https://github.com/Arumiafh/JatimExplore/blob/master/5.png)
-![Ss6](https://github.com/Arumiafh/JatimExplore/blob/master/6.png)
+![home1](https://cloud.githubusercontent.com/assets/22127632/20957153/a35d1e34-bc80-11e6-915b-4871b8e20f3b.jpg)
+![home2](https://cloud.githubusercontent.com/assets/22127632/20957155/a363c680-bc80-11e6-84c0-712fdc2f95db.jpg)
 
 
 *Screenshot List Daftar Kota :*
 
-![Ss7](https://github.com/Arumiafh/JatimExplore/blob/master/7.png)
-![Ss8](https://github.com/Arumiafh/JatimExplore/blob/master/8.png)
-
+![list1](https://cloud.githubusercontent.com/assets/22127632/20957154/a35daa0c-bc80-11e6-8071-31d9f9a893cf.jpg)
+![list2](https://cloud.githubusercontent.com/assets/22127632/20957148/a2faf786-bc80-11e6-83d1-ad2c8e175421.jpg)
 
 *Screenshot Fitur Search :*
 
@@ -37,11 +36,16 @@
 
 *Screenshot Isi :*
 
-![Ss10](https://github.com/Arumiafh/JatimExplore/blob/master/11.png)
-![Ss11](https://github.com/Arumiafh/JatimExplore/blob/master/12.png)
-![Ss12](https://github.com/Arumiafh/JatimExplore/blob/master/13.png)
-![Ss13](https://github.com/Arumiafh/JatimExplore/blob/master/14.png)
-![Ss14](https://github.com/Arumiafh/JatimExplore/blob/master/15.png)
+![content1](https://cloud.githubusercontent.com/assets/22127632/20957149/a327dd82-bc80-11e6-925b-14775da731be.jpg)
+![content2](https://cloud.githubusercontent.com/assets/22127632/20957150/a32ced36-bc80-11e6-93d6-2cc7b0451cd0.jpg)
+![content3](https://cloud.githubusercontent.com/assets/22127632/20957151/a35a1928-bc80-11e6-847a-7536f45e7752.jpg)
+![content4](https://cloud.githubusercontent.com/assets/22127632/20957152/a35b62d8-bc80-11e6-9bee-4597f1aff16d.jpg)
+
+
+
+
+
+
 
 -------------------------------------------------------
 
